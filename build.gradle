@@ -1,0 +1,26 @@
+import com.sun.tools.javac.resources.compiler
+
+apply plugin: 'java'
+apply plugin:'application'
+
+
+mainClassName = "sample.Main"
+sourceCompatibility = 1.8
+version = '1.0'
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    compile group: 'uk.co.caprica', name: 'vlcj', version: '2.4.1'
+
+}
+
+sourceSets {
+    main {
+        java {
+            srcDir 'src'
+        }
+    }
+}
