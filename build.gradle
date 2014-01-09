@@ -2,6 +2,7 @@ import com.sun.tools.javac.resources.compiler
 
 apply plugin: 'java'
 apply plugin:'application'
+apply plugin: "kotlin"
 
 
 mainClassName = "sample.Main"
@@ -10,11 +11,14 @@ version = '1.0'
 
 repositories {
     mavenCentral()
+    maven {
+        url 'http://oss.sonatype.org/content/repositories/snapshots'
+    }
 }
 
 dependencies {
     compile group: 'uk.co.caprica', name: 'vlcj', version: '2.4.1'
-
+    compile 'org.jetbrains.kotlin:kotlin-stdlib:0.6.912'
 }
 
 sourceSets {

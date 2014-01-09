@@ -10,7 +10,6 @@ import javafx.geometry.Side;
 import javafx.scene.Scene;
 import javafx.scene.control.*;
 import javafx.scene.input.MouseEvent;
-import javafx.scene.input.ScrollEvent;
 import javafx.scene.layout.BorderPane;
 import javafx.scene.layout.HBox;
 import javafx.scene.layout.VBox;
@@ -38,7 +37,6 @@ public class Main extends Application {
                 mediaListPlayer.pause();
             }
         });
-
 
         Button play = new Button("Play");
 

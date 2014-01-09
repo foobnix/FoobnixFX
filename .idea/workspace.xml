@@ -2,17 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/findbugs-idea.xml" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__hamcrest_core_1_3.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__junit_4_11.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/sample/Controller.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/sample/sample.fxml" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kot/java/Demo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kot/src/My.kt" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/uk_co_caprica_vlcj_2_4_1.xml" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FoobnixFX.iml" afterPath="$PROJECT_DIR$/FoobnixFX.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__jna_3_5_2.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__jna_3_5_2.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__vlcj_2_4_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__vlcj_2_4_1.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/sample/Main.java" afterPath="$PROJECT_DIR$/src/sample/Main.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build.gradle" afterPath="$PROJECT_DIR$/build.gradle" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="JavaFxApplication.iws" />
@@ -81,51 +77,7 @@
     <favorites_list name="JavaFxApplication" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="Music.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/sample/Music.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="18" column="0" selection-start="311" selection-end="311" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="660">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Main.java" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/sample/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="142" column="51" selection-start="4450" selection-end="4450" vertical-scroll-proportion="0.7364086" vertical-offset="2133" max-vertical-offset="3540">
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#1934#2248#0" expanded="true" />
-                <element signature="e#2237#2238#0" expanded="true" />
-                <element signature="e#3713#3720#0" expanded="true" />
-                <element signature="e#4603#4859#0" expanded="true" />
-                <element signature="e#4848#4849#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MediaPlayer.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/uk.co.caprica/vlcj/2.4.1/4db39ff625c539cff578a23b60f5e5c838a8f2c6/vlcj-2.4.1-sources.jar!/uk/co/caprica/vlcj/player/MediaPlayer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="854" column="9" selection-start="27853" selection-end="27853" vertical-scroll-proportion="0.0" vertical-offset="16202" max-vertical-offset="32400">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Node.class" pinned="false" current="false" current-in-tab="false">
-        <entry file="jar://$USER_HOME$/dev/java/jdk1.8.0/jre/lib/ext/jfxrt.jar!/javafx/scene/Node.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="884" column="22" selection-start="43184" selection-end="43184" vertical-scroll-proportion="0.0" vertical-offset="17462" max-vertical-offset="29520">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -285,7 +237,10 @@
         <option value="$PROJECT_DIR$/src/sample/sample.fxml" />
         <option value="$PROJECT_DIR$/src/sample/Music.java" />
         <option value="$PROJECT_DIR$/build.gradle" />
+        <option value="$PROJECT_DIR$/kot/src/Been.kt" />
+        <option value="$PROJECT_DIR$/kot/src/My.kt" />
         <option value="$PROJECT_DIR$/src/sample/Main.java" />
+        <option value="$PROJECT_DIR$/kot/java/Demo.java" />
       </list>
     </option>
   </component>
@@ -337,6 +292,14 @@
   </component>
   <component name="ProjectReloadState">
     <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectStructureProblems">
+    <ignored-problems>
+      <problem id="unused-library(library:project:Gradle: jna-3.5.2)" />
+      <problem id="unused-library(library:project:Gradle: platform-3.5.2)" />
+      <problem id="unused-library(library:project:Gradle: vlcj-2.4.1)" />
+      <problem id="unused-library(library:project:uk.co.caprica:vlcj:2.4.1)" />
+    </ignored-problems>
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
@@ -390,7 +353,7 @@
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="SearchEverywhereHistory" value="" />
@@ -415,7 +378,38 @@
     <option name="referencePos" value="0" />
     <option name="showLabels" value="true" />
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.Demo">
+    <configuration default="false" name="_DefaultPackage" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="_DefaultPackage" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="kot" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="Demo" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="kot" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
     <configuration default="true" type="Remote" factoryName="Remote">
       <option name="USE_SOCKET_TRANSPORT" value="true" />
       <option name="SERVER_MODE" value="false" />
@@ -482,6 +476,18 @@
       <option name="NETWORK_LATENCY" value="none" />
       <option name="CLEAR_LOGCAT" value="false" />
       <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="kot" />
+      <envs />
       <method />
     </configuration>
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin" singleton="true">
@@ -601,11 +607,19 @@
         <option name="Make" enabled="false" />
       </method>
     </configuration>
-    <list size="3">
+    <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Application.Main" />
       <item index="1" class="java.lang.String" itemvalue="Groovy.build" />
       <item index="2" class="java.lang.String" itemvalue="Groovy.build (1)" />
+      <item index="3" class="java.lang.String" itemvalue="Kotlin._DefaultPackage" />
+      <item index="4" class="java.lang.String" itemvalue="Application.Demo" />
     </list>
+    <recent_temporary>
+      <list size="2">
+        <item index="0" class="java.lang.String" itemvalue="Application.Demo" />
+        <item index="1" class="java.lang.String" itemvalue="Kotlin._DefaultPackage" />
+      </list>
+    </recent_temporary>
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
       <Host>localhost</Host>
       <Port>5050</Port>
@@ -636,6 +650,11 @@
       <updated>1359379246138</updated>
       <workItem from="1359379250712" duration="1302000" />
     </task>
+    <task id="LOCAL-00001" summary="add volume sample">
+      <created>1389303549984</created>
+      <updated>1389303549984</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -678,15 +697,15 @@
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32994187" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32848838" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32837406" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32837406" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" x="100" y="125" width="1720" height="855" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32624868" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32624868" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="CheckStyle" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32943678" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Kotlin" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.13525027" sideWeight="0.6703755" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.13525027" sideWeight="0.6703755" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32943678" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32893652" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -716,7 +735,8 @@
       <TodoPanelSettings />
     </option>
     <MESSAGE value="init commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="init commit" />
+    <MESSAGE value="add volume sample" />
+    <option name="LAST_COMMIT_MESSAGE" value="add volume sample" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -745,11 +765,7 @@
         <state line="17" column="14" selection-start="511" selection-end="511" vertical-scroll-proportion="0.0" vertical-offset="255" max-vertical-offset="435">
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1934#2248#0" expanded="true" />
-            <element signature="e#2237#2238#0" expanded="true" />
-            <element signature="e#3713#3720#0" expanded="true" />
-            <element signature="e#4603#4859#0" expanded="true" />
-            <element signature="e#4848#4849#0" expanded="true" />
+            <element signature="e#3673#3680#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -759,11 +775,7 @@
         <state line="12" column="66" selection-start="351" selection-end="351" vertical-scroll-proportion="0.0" vertical-offset="180" max-vertical-offset="435">
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1934#2248#0" expanded="true" />
-            <element signature="e#2237#2238#0" expanded="true" />
-            <element signature="e#3713#3720#0" expanded="true" />
-            <element signature="e#4603#4859#0" expanded="true" />
-            <element signature="e#4848#4849#0" expanded="true" />
+            <element signature="e#3673#3680#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -773,11 +785,7 @@
         <state line="12" column="66" selection-start="351" selection-end="351" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="435">
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1934#2248#0" expanded="true" />
-            <element signature="e#2237#2238#0" expanded="true" />
-            <element signature="e#3713#3720#0" expanded="true" />
-            <element signature="e#4603#4859#0" expanded="true" />
-            <element signature="e#4848#4849#0" expanded="true" />
+            <element signature="e#3673#3680#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -787,11 +795,7 @@
         <state line="8" column="0" selection-start="170" selection-end="170" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="435">
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1934#2248#0" expanded="true" />
-            <element signature="e#2237#2238#0" expanded="true" />
-            <element signature="e#3713#3720#0" expanded="true" />
-            <element signature="e#4603#4859#0" expanded="true" />
-            <element signature="e#4848#4849#0" expanded="true" />
+            <element signature="e#3673#3680#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -845,45 +849,62 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="1" selection-start="205" selection-end="205" vertical-scroll-proportion="0.42857143" vertical-offset="0" max-vertical-offset="465">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/sample/Music.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="0" selection-start="311" selection-end="311" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="660">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$USER_HOME$/dev/java/jdk1.8.0/jre/lib/ext/jfxrt.jar!/javafx/scene/Node.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="884" column="22" selection-start="43184" selection-end="43184" vertical-scroll-proportion="0.0" vertical-offset="17462" max-vertical-offset="29520">
+        <state line="884" column="22" selection-start="43184" selection-end="43184" vertical-scroll-proportion="0.33333334" vertical-offset="17462" max-vertical-offset="29520">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/uk.co.caprica/vlcj/2.4.1/4db39ff625c539cff578a23b60f5e5c838a8f2c6/vlcj-2.4.1-sources.jar!/uk/co/caprica/vlcj/player/MediaPlayer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="854" column="9" selection-start="27853" selection-end="27853" vertical-scroll-proportion="0.0" vertical-offset="16082" max-vertical-offset="32400">
+        <state line="854" column="9" selection-start="27853" selection-end="27853" vertical-scroll-proportion="0.33333334" vertical-offset="16202" max-vertical-offset="32400">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/Music.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="0" selection-start="311" selection-end="311" vertical-scroll-proportion="0.507438" vertical-offset="53" max-vertical-offset="660">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="0" selection-start="458" selection-end="458" vertical-scroll-proportion="0.72487646" vertical-offset="0" max-vertical-offset="700">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/sample/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="142" column="51" selection-start="4450" selection-end="4450" vertical-scroll-proportion="0.7364086" vertical-offset="2133" max-vertical-offset="3540">
+        <state line="50" column="0" selection-start="1570" selection-end="1570" vertical-scroll-proportion="0.59504133" vertical-offset="440" max-vertical-offset="3380">
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1934#2248#0" expanded="true" />
-            <element signature="e#2237#2238#0" expanded="true" />
-            <element signature="e#3713#3720#0" expanded="true" />
-            <element signature="e#4603#4859#0" expanded="true" />
-            <element signature="e#4848#4849#0" expanded="true" />
+            <element signature="e#3673#3680#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kot/kot.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="0" selection-start="79" selection-end="79" vertical-scroll-proportion="-3.1735537" vertical-offset="1960" max-vertical-offset="4240">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kot/src/My.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="1" selection-start="165" selection-end="165" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="260">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kot/java/Demo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="20" selection-start="257" selection-end="257" vertical-scroll-proportion="0.36363637" vertical-offset="0" max-vertical-offset="605">
+          <folding />
         </state>
       </provider>
     </entry>
@@ -929,7 +950,7 @@
       </state>
       <state key="JdkListConfigurable.UI">
         <settings>
-          <last-edited>1.8</last-edited>
+          <last-edited>Android API 18 Platform</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -946,7 +967,6 @@
             <option name="proportions">
               <list>
                 <option value="0.2" />
-                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>
@@ -954,7 +974,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
-          <last-edited>uk.co.caprica:vlcj:2.4.1</last-edited>
+          <last-edited>Gradle: vlcj-2.4.1</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
