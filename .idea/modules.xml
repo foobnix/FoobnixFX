@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/FoobnixFX.iml" filepath="$PROJECT_DIR$/FoobnixFX.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kot/kot.iml" filepath="$PROJECT_DIR$/kot/kot.iml" />
     </modules>
   </component>
 </project>
