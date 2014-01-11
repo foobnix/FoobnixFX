@@ -3,13 +3,40 @@
  */
 import javafx.application.Application
 import javafx.stage.Stage
+import javafx.scene.Scene
+import javafx.scene.layout.BorderPane
+import javafx.scene.control.SplitPane
 
-class FoobnixFX():Application(){
+class FoobnixFX() : Application(){
 
 
     override fun start(parentStage: Stage?) {
-       parentStage?.setTitle("FoobnixFX")
-       parentStage?.show();
+
+
+        val split = SplitPane()
+        split.getItems()?.addAll(LeftSide(parentStage))
+        split.getItems()?.addAll(CenterLayout())
+        split.setDividerPositions(0.2, 0.8)
+
+        val layout = BorderPane()
+        layout.setTop(TopBar())
+        layout.setBottom(InfoLine())
+        layout.setCenter(split)
+
+
+
+        parentStage?.setScene(Scene(layout))
+        parentStage?.setTitle("FoobnixFX")
+        parentStage?.setResizable(true)
+        parentStage?.setWidth(1000.0)
+        parentStage?.setHeight(600.0)
+        parentStage?.show();
+
+        parentStage?.setOnCloseRequest {
+            MediaPlayer.release()
+        }
+
+
     }
 
     fun run() {
@@ -19,5 +46,5 @@ class FoobnixFX():Application(){
 
 }
 fun main(args: Array<String>) {
-   FoobnixFX().run();
+    FoobnixFX().run();
 }

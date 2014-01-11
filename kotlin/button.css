@@ -1,0 +1,8 @@
+.button {
+   -fx-base: lightblue;
+}
+.button:hover {
+    -fx-base: salmon;
+}
+
+
