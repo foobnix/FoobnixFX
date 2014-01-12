@@ -1,0 +1,78 @@
+/**
+ * Created by ivan on 1/12/14.
+ */
+
+import java.util.ArrayList
+
+fun String.toMy(): String {
+    return this.toUpperCase()
+}
+
+fun compare1(a: Int, b: Int): Boolean = a < b
+fun compare1(a: String, b: String): Boolean = a.length < b.length
+
+
+fun double(x: Int): Int = x * 5
+fun double1(x: Int) = x * 4
+
+fun any(): Unit {
+
+}
+
+
+fun asList<T>(vararg ts: T): List<T> {
+    val result = ArrayList<T>()
+    for (t in ts) // ts is an Array
+        result.add(t)
+    return result
+}
+
+fun max<T>(collection: Collection<T>, less: (T, T) -> Boolean): T? {
+    var max: T? = null;
+    for (it in collection) {
+        if (max == null || less(max!!, it)) {
+            max = it
+        }
+    }
+    return max
+}
+
+fun myF(a: Int, b: Int) {
+
+}
+fun Int.abs(): Int = if (this > 0) this else -this
+
+
+fun <T, R> List<T>.map(transform: (T) -> R): List<R> {
+    val result = ArrayList<R>()
+    for (item in this)
+        result.add(transform(item))
+    return result
+}
+val sum1 = {(x: Int, y: Int) : Int -> x + y }
+
+val sum2: (x: Int, y: Int) -> Int = { x, y -> x + y }
+
+val sum3 = { Int.(other: Int):Int -> this + other }
+
+
+
+
+fun main1(args: Array<String>) {
+    println("Hello".toMy())
+    //val res = max<Int>(asList(1, 23), {compare1()})
+    //println(res)
+    val res = sum1(1, 2)
+    println(res)
+    val res1 = 3.sum3(3)
+
+    print (3 sum3 4)
+
+    myF(//
+            b = 1,
+            a = 0)
+
+    asList(1, 2, 3) map { it -> it + 3 }
+
+
+}
