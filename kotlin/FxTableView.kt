@@ -10,6 +10,8 @@ import javafx.beans.value.ObservableValue
 import javafx.scene.input.MouseEvent
 import javafx.event.EventHandler
 import java.util.List
+import java.io.File
+import java.util.ArrayList
 
 fun <T>TableColumn<FxMusic, T>.cellFactory(field: (FxMusic) -> T) {
     this.setCellValueFactory(object : Callback<TableColumn.CellDataFeatures<FxMusic, T>, ObservableValue<T>> {
@@ -18,6 +20,8 @@ fun <T>TableColumn<FxMusic, T>.cellFactory(field: (FxMusic) -> T) {
         }
     })
 }
+
+
 
 class FxTableView() : TableView<FxMusic>(){
     {
@@ -31,17 +35,12 @@ class FxTableView() : TableView<FxMusic>(){
         pathCol.cellFactory({ it.path })
         textCol.cellFactory({ it.text })
 
-
-        val list: ObservableList<FxMusic>? = FXCollections.observableArrayList(
-                FxMusic(1, "path1", "Name1"),
-                FxMusic(2, "path2", "Name2", true),
-                FxMusic(3, "path3", "Name3")
-        );
+        val list: ObservableList<FxMusic>? = FXCollections.observableArrayList(Core.getAllRadios());
 
 
 
-
-        Core.onListUpdated = { musicList ->
+        Core.onListUpdated = {
+            musicList ->
             list?.clear()
             list?.addAll(musicList)
             setItems(list)
@@ -49,7 +48,7 @@ class FxTableView() : TableView<FxMusic>(){
 
         setOnMouseClicked { event ->
             if (event?.getClickCount() == 2) {
-                MediaPlayer.play(getSelectionModel()?.getSelectedItem()?.path!!)
+                VlcMediaPlayer.play(getSelectionModel()?.getSelectedItem()?.path!!)
             }
         }
 

@@ -30,21 +30,22 @@ class FoobnixFX() : Application(){
         parentStage?.setResizable(true)
         parentStage?.setWidth(1000.0)
         parentStage?.setHeight(600.0)
-        parentStage?.show();
+        parentStage?.show()
 
         parentStage?.setOnCloseRequest {
-            MediaPlayer.release()
+            VlcMediaPlayer.release()
         }
 
 
     }
 
     fun run() {
-        Application.launch();
+        Application.launch()
     }
 
 
 }
 fun main(args: Array<String>) {
     FoobnixFX().run();
+    //RadioParser().printRadio()
 }

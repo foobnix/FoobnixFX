@@ -7,8 +7,10 @@ import uk.co.caprica.vlcj.runtime.RuntimeUtil
 import uk.co.caprica.vlcj.binding.LibVlc
 import com.sun.jna.NativeLibrary
 import com.sun.jna.Native
+import uk.co.caprica.vlcj.player.MediaPlayerEventAdapter
+import uk.co.caprica.vlcj.player.MediaPlayer
 
-object MediaPlayer{
+object VlcMediaPlayer{
     val mediaListPlayer: EmbeddedMediaPlayer;
     val factory: MediaPlayerFactory;
     {
@@ -31,22 +33,43 @@ object MediaPlayer{
 
         factory = MediaPlayerFactory()
         mediaListPlayer = factory?.newEmbeddedMediaPlayer()!!
+        mediaListPlayer.addMediaPlayerEventListener(EventsListener())
+    }
+
+
+
+
+    class EventsListener : MediaPlayerEventAdapter(){
+        override fun positionChanged(mediaPlayer: MediaPlayer?, newPosition: Float) {
+            Core.onSeek(newPosition)
+        }
+        override fun seekableChanged(mediaPlayer: MediaPlayer?, newSeekable: Int) {
+            println("seekableChanged")
+        }
     }
 
     fun play(path: String) {
         if (!path.endsWith(".mp3")) {
-            println("Format not support")
-            return;
+            println("Format not support $path")
+            //return;
         }
+
         mediaListPlayer.playMedia(path)
+
+        println("length = ${mediaListPlayer.getLength()}")
+        println("isSeekable = ${mediaListPlayer.isSeekable()}")
     }
 
-    fun setVolume(value:Int){
+    fun setVolume(value: Int) {
         mediaListPlayer.setVolume(value)
     }
 
     fun play() {
         mediaListPlayer.play()
+    }
+    fun seek(value: Float) {
+        println("seek $value")
+        mediaListPlayer.setPosition(value)
     }
 
     fun stop() {

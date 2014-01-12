@@ -32,14 +32,14 @@ class TopBar() : HBox(){
 
         val slider = Slider()
         slider.setMin(0.0)
-        slider.setMax(150.0)
+        slider.setMax(120.0)
         slider.setValue(50.0)
         slider.setShowTickMarks(true);
         slider.setMaxHeight(java.lang.Double.MAX_VALUE)
 
         slider.valueProperty()?.addListener(object:ChangeListener<Number>{
             override fun changed(p0: ObservableValue<out Number>?, p1: Number?, p2: Number?) {
-                MediaPlayer.setVolume(slider?.getValue().toInt());
+                VlcMediaPlayer.setVolume(slider?.getValue().toInt());
             }
 
         })
@@ -54,6 +54,11 @@ class TopBar() : HBox(){
         progressBar.setOnMouseClicked {(mouseEvent) ->
             var offset = mouseEvent?.getSceneX()!! - progressBar?.getLayoutX();
             progressBar.setProgress(offset / progressBar.getWidth());
+            VlcMediaPlayer.seek(progressBar?.getProgress().toFloat())
+        }
+        Core.onSeekChanged = {
+            value ->
+            progressBar.setProgress(value.toDouble())
         }
 
         progressBar.setMaxHeight(java.lang.Double.MAX_VALUE)

@@ -2,466 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/IE.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/IcoMoon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/accessibility.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/address-book.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/aid.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/airplane.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/alarm.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/alarm2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/android.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/angry.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/angry2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/apple.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/arrow-down-left.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/arrow-down-left2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/arrow-down-left3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/arrow-down-right.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/arrow-down-right2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/arrow-down-right3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/arrow-down.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/arrow-down2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/arrow-down3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/arrow-left.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/arrow-left2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/arrow-left3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/arrow-right.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/arrow-right2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/arrow-right3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/arrow-up-left.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/arrow-up-left2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/arrow-up-left3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/arrow-up-right.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/arrow-up-right2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/arrow-up-right3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/arrow-up.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/arrow-up2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/arrow-up3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/attachment.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/backward.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/backward2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/barcode.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/bars.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/bars2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/bell.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/binoculars.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/blocked.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/blog.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/blogger.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/blogger2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/bold.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/book.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/bookmark.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/bookmarks.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/books.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/box-add.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/box-remove.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/briefcase.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/brightness-contrast.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/brightness-medium.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/bubble.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/bubble2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/bubbles.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/bubbles2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/bubbles3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/bubbles4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/bug.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/bullhorn.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/busy.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/cabinet.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/calculate.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/calendar.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/calendar2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/camera.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/camera2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/cancel-circle.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/cart.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/cart2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/cart3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/checkbox-checked.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/checkbox-partial.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/checkbox-unchecked.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/checkmark-circle.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/checkmark.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/checkmark2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/chrome.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/clock.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/clock2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/close.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/cloud-download.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/cloud-upload.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/cloud.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/clubs.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/code.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/cog.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/cog2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/cogs.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/coin.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/compass.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/confused.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/confused2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/connection.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/console.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/contract.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/contract2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/contrast.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/cool.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/cool2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/copy.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/copy2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/copy3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/credit.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/crop.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/css3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/dashboard.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/delicious.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/deviantart.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/deviantart2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/diamonds.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/dice.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/disk.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/download.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/download2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/download3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/drawer.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/drawer2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/drawer3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/dribbble.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/dribbble2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/dribbble3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/droplet.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/earth.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/eject.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/embed.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/enter.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/envelop.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/equalizer.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/evil.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/evil2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/exit.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/expand.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/expand2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/eye-blocked.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/eye.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/eye2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/facebook.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/facebook2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/facebook3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/feed.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/feed2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/feed3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/feed4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/file-css.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/file-excel.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/file-openoffice.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/file-pdf.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/file-powerpoint.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/file-word.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/file-xml.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/file-zip.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/file.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/file2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/file3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/file4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/film.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/filter.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/filter2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/finder.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/fire.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/firefox.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/first.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/flag.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/flattr.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/flickr.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/flickr2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/flickr3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/flickr4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/flip.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/flip2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/folder-open.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/folder.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/font.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/food.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/forrst.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/forrst2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/forward.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/forward2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/forward3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/foursquare.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/foursquare2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/gift.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/github.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/github2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/github3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/github4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/github5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/glass.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/globe.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/google-drive.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/google-plus.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/google-plus2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/google-plus3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/google-plus4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/google.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/grin.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/grin2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/hammer.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/hammer2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/happy.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/happy2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/headphones.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/heart-broken.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/heart.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/heart2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/history.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/home.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/home2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/home3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/html5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/html52.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/icomoon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/ie.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/image.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/image2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/images.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/indent-decrease.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/indent-increase.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/info.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/info2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/insert-template.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/instagram.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/italic.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/joomla.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/key.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/key2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/keyboard.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/lab.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/lanyrd.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/laptop.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/last.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/lastfm.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/lastfm2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/leaf.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/left-to-right.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/library.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/libreoffice.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/lightning.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/link.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/linkedin.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/list.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/list2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/location.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/location2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/lock.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/lock2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/loop.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/loop2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/loop3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/magnet.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/mail.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/mail2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/mail3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/mail4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/map.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/map2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/menu.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/menu2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/meter.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/meter2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/minus.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/mobile.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/mobile2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/mug.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/music.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/neutral.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/neutral2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/new-tab.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/newspaper.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/next.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/notebook.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/notification.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/numbered-list.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/office.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/omega.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/opera.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/pacman.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/paint-format.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/paragraph-center.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/paragraph-center2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/paragraph-justify.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/paragraph-justify2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/paragraph-left.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/paragraph-left2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/paragraph-right.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/paragraph-right2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/paste.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/paste2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/paste3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/pause.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/pause2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/pawn.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/paypal.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/paypal2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/paypal3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/pen.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/pencil.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/pencil2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/phone-hang-up.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/phone.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/picassa.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/picassa2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/pie.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/pilcrow.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/pinterest.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/pinterest2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/play.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/play2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/play3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/plus.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/podcast.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/point-down.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/point-left.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/point-right.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/point-up.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/power-cord.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/previous.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/print.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/profile.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/pushpin.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/qrcode.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/question.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/quill.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/quotes-left.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/radio-checked.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/radio-unchecked.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/reddit.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/redo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/redo2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/remove.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/remove2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/reply.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/right-to-left.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/road.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/rocket.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/sad.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/sad2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/safari.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/scissors.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/screen.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/search.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/settings.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/share.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/shield.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/shocked.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/shocked2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/shuffle.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/sigma.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/signup.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/skype.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/smiley.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/smiley2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/soundcloud.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/soundcloud2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/spades.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/spam.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/spell-check.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/spinner.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/spinner2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/spinner3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/spinner4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/spinner5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/spinner6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/stack.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/stackoverflow.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/star.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/star2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/star3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/stats.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/steam.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/steam2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/stop.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/stop2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/stopwatch.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/storage.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/strikethrough.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/stumbleupon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/stumbleupon2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/support.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/switch.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/tab.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/table.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/table2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/tablet.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/tag.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/tags.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/target.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/text-height.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/text-width.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/thumbs-up.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/thumbs-up2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/ticket.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/tongue.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/tongue2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/tree.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/trophy.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/truck.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/tumblr.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/tumblr2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/tux.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/tv.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/twitter.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/twitter2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/twitter3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/underline.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/undo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/undo2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/unlocked.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/upload.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/upload2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/upload3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/user.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/user2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/user3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/user4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/users.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/users2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/vimeo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/vimeo2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/vimeo3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/volume-decrease.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/volume-high.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/volume-increase.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/volume-low.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/volume-medium.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/volume-mute.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/volume-mute2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/wand.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/warning.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/windows.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/windows8.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/wink.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/wink2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/wondering.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/wondering2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/wordpress.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/wordpress2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/wrench.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/xing.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/xing2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/yahoo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/yelp.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/youtube.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/youtube2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/zoom-in.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/res/32px/zoom-out.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/EventBus.kt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/Sample.kt1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/RadioParser.kt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/kotlin/MediaPlayer.kt" afterPath="$PROJECT_DIR$/kotlin/VlcMediaPlayer.kt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kotlin/Core.kt" afterPath="$PROJECT_DIR$/kotlin/Core.kt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kotlin/FoobnixFX.kt" afterPath="$PROJECT_DIR$/kotlin/FoobnixFX.kt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kotlin/FxTableView.kt" afterPath="$PROJECT_DIR$/kotlin/FxTableView.kt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build.gradle" afterPath="$PROJECT_DIR$/build.gradle" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/gradle.xml" afterPath="$PROJECT_DIR$/.idea/gradle.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kotlin/TopBar.kt" afterPath="$PROJECT_DIR$/kotlin/TopBar.kt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="JavaFxApplication.iws" />
@@ -522,6 +68,38 @@
       </breakpoint>
     </breakpoint_any>
     <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
+    <line_breakpoints>
+      <breakpoint url="file://$PROJECT_DIR$/kotlin/VlcMediaPlayer.kt" line="67" class="Class at MediaPlayer.kt:49" package="">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/kotlin/VlcMediaPlayer.kt" line="51" class="Class at MediaPlayer.kt:37" package="">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+    </line_breakpoints>
     <breakpoint_rules />
     <ui_properties />
   </component>
@@ -531,31 +109,45 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="FxTableView.kt" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="FxTableView.kt" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/kotlin/FxTableView.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="46" column="26" selection-start="1674" selection-end="1674" vertical-scroll-proportion="0.330033" vertical-offset="720" max-vertical-offset="1360">
+            <state line="37" column="92" selection-start="1444" selection-end="1444" vertical-scroll-proportion="0.0" vertical-offset="534" max-vertical-offset="1340">
               <folding>
-                <element signature="e#0#467#0" expanded="true" />
+                <element signature="e#0#514#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Node.class" pinned="false" current="false" current-in-tab="false">
-        <entry file="jar://$USER_HOME$/dev/java/jdk1.8.0/jre/lib/ext/jfxrt.jar!/javafx/scene/Node.class">
+      <file leaf-file-name="Core.kt" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/kotlin/Core.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="770" column="98" selection-start="34794" selection-end="34794" vertical-scroll-proportion="0.0" vertical-offset="15380" max-vertical-offset="29520">
+            <state line="26" column="35" selection-start="678" selection-end="678" vertical-scroll-proportion="0.0" vertical-offset="238" max-vertical-offset="880">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MouseEvent.class" pinned="false" current="false" current-in-tab="false">
-        <entry file="jar://$USER_HOME$/dev/java/jdk1.8.0/jre/lib/ext/jfxrt.jar!/javafx/scene/input/MouseEvent.class">
+      <file leaf-file-name="VlcMediaPlayer.kt" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/kotlin/VlcMediaPlayer.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="13" selection-start="161" selection-end="161" vertical-scroll-proportion="0.0" vertical-offset="100" max-vertical-offset="2340">
-              <folding />
+            <state line="48" column="5" selection-start="1544" selection-end="1544" vertical-scroll-proportion="0.13129103" vertical-offset="840" max-vertical-offset="1820">
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+                <element signature="e#39#400#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RadioParser.kt" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/kotlin/RadioParser.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="20" column="32" selection-start="579" selection-end="579" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="640">
+              <folding>
+                <element signature="e#41#87#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -742,15 +334,17 @@
         <option value="$PROJECT_DIR$/src/sample/Demo.kt" />
         <option value="$PROJECT_DIR$/kotlin/FxTreeView.kt" />
         <option value="$PROJECT_DIR$/kotlin/LeftSide.kt" />
-        <option value="$PROJECT_DIR$/kotlin/MediaPlayer.kt" />
-        <option value="$PROJECT_DIR$/kotlin/TopBar.kt" />
         <option value="$PROJECT_DIR$/build.gradle" />
         <option value="$PROJECT_DIR$/kotlin/FxMusic.kt" />
-        <option value="$PROJECT_DIR$/kotlin/FoobnixFX.kt" />
         <option value="$PROJECT_DIR$/kotlin/Sample.kt" />
         <option value="$PROJECT_DIR$/kotlin/EventBus.kt" />
+        <option value="$PROJECT_DIR$/kotlin/TopBar.kt" />
+        <option value="$PROJECT_DIR$/kotlin/MediaPlayer.kt" />
+        <option value="$PROJECT_DIR$/kotlin/FoobnixFX.kt" />
         <option value="$PROJECT_DIR$/kotlin/Core.kt" />
         <option value="$PROJECT_DIR$/kotlin/FxTableView.kt" />
+        <option value="$PROJECT_DIR$/kotlin/RadioParser.kt" />
+        <option value="$PROJECT_DIR$/kotlin/VlcMediaPlayer.kt" />
       </list>
     </option>
   </component>
@@ -864,120 +458,6 @@
               <option name="myItemId" value="FoobnixFX" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="External Libraries" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="FoobnixFX" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="External Libraries" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="&lt; 1.8 &gt;" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="FoobnixFX" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="External Libraries" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="&lt; 1.8 &gt;" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="jfxrt.jar" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="FoobnixFX" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="External Libraries" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="&lt; 1.8 &gt;" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="jfxrt.jar" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="javafx" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="FoobnixFX" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="External Libraries" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="&lt; 1.8 &gt;" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="jfxrt.jar" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="javafx" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="scene" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="FoobnixFX" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="External Libraries" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="&lt; 1.8 &gt;" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="jfxrt.jar" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="javafx" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="scene" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="input" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -1025,7 +505,7 @@
     <property name="project.structure.last.edited" value="Facets" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="SearchEverywhereHistory" value="" />
+    <property name="SearchEverywhereHistory" value="?" />
     <property name="Downloaded.Files.Path" value="$PROJECT_DIR$/lib" />
     <property name="Repository.Attach.JavaDocs" value="true" />
     <property name="Repository.Attach.Sources" value="true" />
@@ -1383,7 +863,11 @@
       <created>1389475830526</created>
       <updated>1389475830526</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="udpates">
+      <created>1389554783737</created>
+      <updated>1389554783737</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -1413,34 +897,34 @@
     <frame x="0" y="25" width="1920" height="1055" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32994187" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32848838" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32960597" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="FindBugs-IDEA" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32943678" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32837406" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32943678" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.19595315" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32731137" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24973376" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Regex" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2497939" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24920128" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.5876727" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32994187" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32848838" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32837406" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32731137" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32943678" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="CheckStyle" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32943678" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Kotlin" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.31363153" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.29872206" sideWeight="0.6703755" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Regex" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32943678" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2497939" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24920128" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.328541" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Profiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32960597" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -1509,7 +993,8 @@
     <MESSAGE value="fix working" />
     <MESSAGE value="fix working&#10;" />
     <MESSAGE value="kotlin sample&#10;" />
-    <option name="LAST_COMMIT_MESSAGE" value="kotlin sample&#10;" />
+    <MESSAGE value="udpates" />
+    <option name="LAST_COMMIT_MESSAGE" value="udpates" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1519,62 +1004,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/kotlin/FxTableView.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="8" selection-start="869" selection-end="1279" vertical-scroll-proportion="0.0" vertical-offset="315" max-vertical-offset="1400">
-          <folding>
-            <element signature="e#0#467#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/kotlin/FoobnixFX.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="47" column="9" selection-start="1004" selection-end="1004" vertical-scroll-proportion="0.0" vertical-offset="521" max-vertical-offset="1100">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/kotlin/FxMusic.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="1" selection-start="198" selection-end="198" vertical-scroll-proportion="0.0" vertical-offset="180" max-vertical-offset="260">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/kotlin/FoobnixFX.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="47" column="9" selection-start="1004" selection-end="1004" vertical-scroll-proportion="0.0" vertical-offset="521" max-vertical-offset="1100">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/kotlin/FxMusic.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="1" selection-start="198" selection-end="198" vertical-scroll-proportion="0.0" vertical-offset="180" max-vertical-offset="300">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/kotlin/FoobnixFX.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="47" column="9" selection-start="1004" selection-end="1004" vertical-scroll-proportion="0.0" vertical-offset="521" max-vertical-offset="1100">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/kotlin/FxMusic.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="1" selection-start="198" selection-end="198" vertical-scroll-proportion="0.0" vertical-offset="180" max-vertical-offset="300">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/dev/java/jdk1.8.0/jre/lib/ext/jfxrt.jar!/javafx/collections/FXCollections.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="48" column="60" selection-start="2954" selection-end="2954" vertical-scroll-proportion="0.0" vertical-offset="743" max-vertical-offset="15520" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/kotlin/LeftSide.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state line="35" column="36" selection-start="949" selection-end="949" vertical-scroll-proportion="0.3322314" vertical-offset="459" max-vertical-offset="1640" />
@@ -1595,24 +1024,9 @@
         <state line="8" column="9" selection-start="278" selection-end="278" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="280" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/kotlin/TopBar.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="41" column="21" selection-start="1355" selection-end="1355" vertical-scroll-proportion="0.0" vertical-offset="499" max-vertical-offset="1600" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/kotlin/MediaPlayer.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="7" selection-start="307" selection-end="307" vertical-scroll-proportion="-0.3305785" vertical-offset="360" max-vertical-offset="1320" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/kotlin/res/32px/arrow-down.png">
       <provider selected="true" editor-type-id="images">
         <state />
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/dev/java/jdk1.8.0/src.zip!/java/util/ArrayList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="153" column="11" selection-start="5835" selection-end="5835" vertical-scroll-proportion="0.3322314" vertical-offset="2359" max-vertical-offset="28520" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/build.gradle">
@@ -1644,13 +1058,6 @@
         <state line="6" column="82" selection-start="233" selection-end="233" vertical-scroll-proportion="0.10940919" vertical-offset="0" max-vertical-offset="1100" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/kotlin/FoobnixFX.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="0" selection-start="241" selection-end="241" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="980">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/kotlin/EventBus.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state line="24" column="29" selection-start="602" selection-end="606" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="640">
@@ -1663,13 +1070,6 @@
     <entry file="file://$PROJECT_DIR$/kotlin/Sample.kt1">
       <provider selected="true" editor-type-id="text-editor">
         <state line="51" column="0" selection-start="948" selection-end="993" vertical-scroll-proportion="0.0" vertical-offset="635" max-vertical-offset="1660">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/kotlin/Core.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="1" selection-start="484" selection-end="484" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="500">
           <folding />
         </state>
       </provider>
@@ -1688,11 +1088,284 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar://$APPLICATION_PLUGINS_DIR$/Kotlin/lib/kotlin-plugin.jar!/jet/Collections.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="23" selection-start="204" selection-end="214" vertical-scroll-proportion="0.330033" vertical-offset="0" max-vertical-offset="3080">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/dev/java/jdk1.8.0/src.zip!/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="153" column="11" selection-start="5835" selection-end="5835" vertical-scroll-proportion="1.8184818" vertical-offset="1458" max-vertical-offset="28520">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$KOTLIN_BUNDLED$/lib/kotlin-runtime-sources.jar!/kotlin/JUtil.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="25" selection-start="271" selection-end="271" vertical-scroll-proportion="0.0" vertical-offset="38" max-vertical-offset="2180">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$KOTLIN_BUNDLED$/lib/kotlin-runtime-sources.jar!/kotlin/Lists.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="34" column="26" selection-start="946" selection-end="946" vertical-scroll-proportion="1.1467116" vertical-offset="0" max-vertical-offset="1760">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/dev/java/jdk1.8.0/src.zip!/java/io/File.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1205" column="18" selection-start="50785" selection-end="50785" vertical-scroll-proportion="0.0" vertical-offset="23163" max-vertical-offset="44200">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/dev/java/jdk1.8.0/jre/lib/ext/jfxrt.jar!/javafx/collections/FXCollections.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="48" column="60" selection-start="2954" selection-end="2954" vertical-scroll-proportion="0.0" vertical-offset="743" max-vertical-offset="15520">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$KOTLIN_BUNDLED$/lib/kotlin-runtime-sources.jar!/generated/_Iterators.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="392" column="55" selection-start="12420" selection-end="12420" vertical-scroll-proportion="0.0" vertical-offset="7643" max-vertical-offset="8760">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$KOTLIN_BUNDLED$/lib/kotlin-runtime-sources.jar!/generated/_Iterables.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="440" column="27" selection-start="13515" selection-end="13515" vertical-scroll-proportion="0.0" vertical-offset="8603" max-vertical-offset="9560">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$KOTLIN_BUNDLED$/lib/kotlin-runtime-sources.jar!/kotlin/Iterators.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="156" column="6" selection-start="4669" selection-end="4669" vertical-scroll-proportion="0.0" vertical-offset="2878" max-vertical-offset="4340">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/dev/java/jdk1.8.0/src.zip!/java/util/List.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="110" column="17" selection-start="4250" selection-end="4250" vertical-scroll-proportion="0.0" vertical-offset="1538" max-vertical-offset="13440">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/uk.co.caprica/vlcj/2.4.1/4db39ff625c539cff578a23b60f5e5c838a8f2c6/vlcj-2.4.1-sources.jar!/uk/co/caprica/vlcj/player/embedded/EmbeddedMediaPlayer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="31" column="17" selection-start="1100" selection-end="1100" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3280">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/uk.co.caprica/vlcj/2.4.1/4db39ff625c539cff578a23b60f5e5c838a8f2c6/vlcj-2.4.1-sources.jar!/uk/co/caprica/vlcj/player/embedded/DefaultEmbeddedMediaPlayer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="196" column="25" selection-start="7288" selection-end="7288" vertical-scroll-proportion="0.0" vertical-offset="6914" max-vertical-offset="7520">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/dev/java/jdk1.8.0/jre/lib/ext/jfxrt.jar!/com/sun/javafx/event/EventHandlerManager.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="34" column="31" selection-start="2301" selection-end="2301" vertical-scroll-proportion="0.0" vertical-offset="544" max-vertical-offset="960">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/dev/java/jdk1.8.0/jre/lib/ext/jfxrt.jar!/javafx/scene/control/ProgressIndicator.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="28" column="24" selection-start="1223" selection-end="1223" vertical-scroll-proportion="0.4389439" vertical-offset="274" max-vertical-offset="880">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kotlin/TopBar.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="44" column="10" selection-start="1429" selection-end="1429" vertical-scroll-proportion="0.0" vertical-offset="426" max-vertical-offset="1700">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/uk.co.caprica/vlcj/2.4.1/4db39ff625c539cff578a23b60f5e5c838a8f2c6/vlcj-2.4.1-sources.jar!/uk/co/caprica/vlcj/player/MediaPlayerEventListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="38" column="30" selection-start="1474" selection-end="1474" vertical-scroll-proportion="0.0" vertical-offset="238" max-vertical-offset="5120">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/uk.co.caprica/vlcj/2.4.1/4db39ff625c539cff578a23b60f5e5c838a8f2c6/vlcj-2.4.1-sources.jar!/uk/co/caprica/vlcj/player/condition/conditions/TimeReachedCondition.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="29" column="50" selection-start="1131" selection-end="1131" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="840">
+          <folding>
+            <element signature="e#0#1803#0" expanded="false" />
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/uk.co.caprica/vlcj/2.4.1/4db39ff625c539cff578a23b60f5e5c838a8f2c6/vlcj-2.4.1-sources.jar!/uk/co/caprica/vlcj/player/condition/DefaultCondition.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="46" column="47" selection-start="2015" selection-end="2015" vertical-scroll-proportion="0.0" vertical-offset="180" max-vertical-offset="1140">
+          <folding>
+            <element signature="e#0#2521#0" expanded="false" />
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/uk.co.caprica/vlcj/2.4.1/4db39ff625c539cff578a23b60f5e5c838a8f2c6/vlcj-2.4.1-sources.jar!/uk/co/caprica/vlcj/player/condition/Condition.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="85" column="55" selection-start="3343" selection-end="3343" vertical-scroll-proportion="0.0" vertical-offset="896" max-vertical-offset="5100">
+          <folding>
+            <element signature="e#0#8897#0" expanded="false" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#3689#3703#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/uk.co.caprica/vlcj/2.4.1/4db39ff625c539cff578a23b60f5e5c838a8f2c6/vlcj-2.4.1-sources.jar!/uk/co/caprica/vlcj/player/MediaPlayerEventAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="34" column="36" selection-start="1232" selection-end="1255" vertical-scroll-proportion="0.0" vertical-offset="1486" max-vertical-offset="2820">
+          <folding>
+            <element signature="e#0#3992#0" expanded="false" />
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/uk.co.caprica/vlcj/2.4.1/4db39ff625c539cff578a23b60f5e5c838a8f2c6/vlcj-2.4.1-sources.jar!/uk/co/caprica/vlcj/player/MediaPlayer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="165" column="17" selection-start="6884" selection-end="6884" vertical-scroll-proportion="0.0" vertical-offset="2426" max-vertical-offset="32400">
+          <folding>
+            <element signature="e#0#51378#0" expanded="false" />
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/dev/java/jdk1.8.0/src.zip!/java/lang/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="36" column="13" selection-start="513" selection-end="513" vertical-scroll-proportion="0.0" vertical-offset="58" max-vertical-offset="10780">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/dev/java/jdk1.8.0/src.zip!/java/lang/Class.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2246" column="24" selection-start="95050" selection-end="95050" vertical-scroll-proportion="0.0" vertical-offset="43298" max-vertical-offset="69040">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/dev/java/jdk1.8.0/src.zip!/java/net/URL.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="738" column="18" selection-start="28455" selection-end="28455" vertical-scroll-proportion="0.0" vertical-offset="13978" max-vertical-offset="25360">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$KOTLIN_BUNDLED$/lib/kotlin-runtime-sources.jar!/generated/_Arrays.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="180" column="35" selection-start="5844" selection-end="5844" vertical-scroll-proportion="0.0" vertical-offset="3403" max-vertical-offset="10440">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kotlin/FxImageView.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="37" selection-start="221" selection-end="232" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="380">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kotlin/radio/GUZEI.COM.fpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="100600">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kotlin/radio/GUZEI_BEST.COM.fpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="27140">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kotlin/radio/DI.FM.fpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1460">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$KOTLIN_BUNDLED$/lib/kotlin-runtime-sources.jar!/kotlin/io/JIO.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="213" column="51" selection-start="6657" selection-end="6663" vertical-scroll-proportion="0.0" vertical-offset="4003" max-vertical-offset="6800">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$KOTLIN_BUNDLED$/lib/kotlin-runtime-sources.jar!/kotlin/io/Files.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="196" column="22" selection-start="5443" selection-end="5443" vertical-scroll-proportion="0.0" vertical-offset="3583" max-vertical-offset="4540">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$KOTLIN_BUNDLED$/lib/kotlin-runtime-sources.jar!/kotlin/Standard.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="47" column="19" selection-start="1187" selection-end="1187" vertical-scroll-proportion="0.0" vertical-offset="698" max-vertical-offset="1340">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kotlin/FoobnixFX.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="48" column="4" selection-start="1032" selection-end="1032" vertical-scroll-proportion="0.0" vertical-offset="86" max-vertical-offset="1000">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/kotlin/FxTableView.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="46" column="26" selection-start="1674" selection-end="1674" vertical-scroll-proportion="0.330033" vertical-offset="720" max-vertical-offset="1360">
+        <state line="37" column="92" selection-start="1444" selection-end="1444" vertical-scroll-proportion="0.0" vertical-offset="534" max-vertical-offset="1340">
           <folding>
-            <element signature="e#0#467#0" expanded="true" />
+            <element signature="e#0#514#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kotlin/RadioParser.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="32" selection-start="579" selection-end="579" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="640">
+          <folding>
+            <element signature="e#41#87#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kotlin/Core.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="26" column="35" selection-start="678" selection-end="678" vertical-scroll-proportion="0.0" vertical-offset="238" max-vertical-offset="880">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kotlin/VlcMediaPlayer.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="48" column="5" selection-start="1544" selection-end="1544" vertical-scroll-proportion="0.13129103" vertical-offset="840" max-vertical-offset="1820">
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="e#39#400#0" expanded="true" />
           </folding>
         </state>
       </provider>
