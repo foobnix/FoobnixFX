@@ -49,8 +49,8 @@ object VlcMediaPlayer{
     }
 
     fun play(path: String) {
+        println("Try to play $path")
         if (!path.endsWith(".mp3")) {
-            println("Format not support $path")
             //return;
         }
 

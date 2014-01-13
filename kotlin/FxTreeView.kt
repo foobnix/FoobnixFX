@@ -10,10 +10,10 @@ class FxTreeView() : TreeView<String>(){
         val root = TreeItem<String>()
 
         for (i in 1..10) {
-            val folder = TreeItem<String>("[Album name $i]")
+            val folder = TreeItem<String>("[Album name $i]",FxImageView("folder.png"))
             folder.setExpanded(false)
             for (j in 1..100) {
-                val item = TreeItem<String>("Song $j")
+                val item = TreeItem<String>("Song $j .mp3",FxImageView("music.png"))
                 folder.getChildren()?.add(item)
 
             }

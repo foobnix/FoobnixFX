@@ -6,6 +6,9 @@ import javafx.stage.Stage
 import javafx.scene.Scene
 import javafx.scene.layout.BorderPane
 import javafx.scene.control.SplitPane
+import org.apache.http.impl.client.DefaultHttpClient
+import org.apache.http.client.methods.HttpGet
+import org.apache.http.util.EntityUtils
 
 class FoobnixFX() : Application(){
 
@@ -46,6 +49,5 @@ class FoobnixFX() : Application(){
 
 }
 fun main(args: Array<String>) {
-    FoobnixFX().run();
-    //RadioParser().printRadio()
+   FoobnixFX().run();
 }

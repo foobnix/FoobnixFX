@@ -1,8 +1,6 @@
-import com.sun.tools.javac.resources.compiler
-
 apply plugin: 'java'
 apply plugin: 'application'
-apply plugin: "kotlin"
+apply plugin: 'kotlin'
 
 
 mainClassName = "sample.Main"
@@ -16,9 +14,7 @@ repositories {
 
 dependencies {
     compile group: 'uk.co.caprica', name: 'vlcj', version: '2.4.1'
-    compile 'org.jetbrains.kotlin:kotlin-runtime:0.6.1910'
-    compile 'org.jetbrains.kotlin:kotlin-runtime:0.6.1910'
-    compile 'org.jetbrains.kotlin:kotlin-compiler:0.6.1910'
+    compile 'org.apache.httpcomponents:httpclient:4.2'
 }
 
 sourceSets {

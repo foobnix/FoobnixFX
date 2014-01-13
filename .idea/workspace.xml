@@ -2,12 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/RadioParser.kt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/kotlin/MediaPlayer.kt" afterPath="$PROJECT_DIR$/kotlin/VlcMediaPlayer.kt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kotlin/Core.kt" afterPath="$PROJECT_DIR$/kotlin/Core.kt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/Parsers.kt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FoobnixFX.iml" afterPath="$PROJECT_DIR$/FoobnixFX.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kotlin/FoobnixFX.kt" afterPath="$PROJECT_DIR$/kotlin/FoobnixFX.kt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kotlin/FxTableView.kt" afterPath="$PROJECT_DIR$/kotlin/FxTableView.kt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kotlin/TopBar.kt" afterPath="$PROJECT_DIR$/kotlin/TopBar.kt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kotlin/FxTreeView.kt" afterPath="$PROJECT_DIR$/kotlin/FxTreeView.kt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__jna_3_5_2.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__jna_3_5_2.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__vlcj_2_4_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__vlcj_2_4_1.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kotlin/VlcMediaPlayer.kt" afterPath="$PROJECT_DIR$/kotlin/VlcMediaPlayer.kt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build.gradle" afterPath="$PROJECT_DIR$/build.gradle" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/gradle.xml" afterPath="$PROJECT_DIR$/.idea/gradle.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="JavaFxApplication.iws" />
@@ -68,8 +72,8 @@
       </breakpoint>
     </breakpoint_any>
     <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
-    <line_breakpoints>
-      <breakpoint url="file://$PROJECT_DIR$/kotlin/VlcMediaPlayer.kt" line="67" class="Class at MediaPlayer.kt:49" package="">
+    <line_breakpoints default_suspend_policy="SuspendAll" default_condition_enabled="true">
+      <breakpoint url="file://$PROJECT_DIR$/kotlin/VlcMediaPlayer.kt" line="67" class="Class at VlcMediaPlayer.kt:67" package="">
         <option name="ENABLED" value="true" />
         <option name="LOG_ENABLED" value="false" />
         <option name="LOG_EXPRESSION_ENABLED" value="false" />
@@ -84,7 +88,7 @@
         <option name="CONDITION" value="" />
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
-      <breakpoint url="file://$PROJECT_DIR$/kotlin/VlcMediaPlayer.kt" line="51" class="Class at MediaPlayer.kt:37" package="">
+      <breakpoint url="file://$PROJECT_DIR$/kotlin/VlcMediaPlayer.kt" line="52" class="Class at VlcMediaPlayer.kt:51" package="">
         <option name="ENABLED" value="true" />
         <option name="LOG_ENABLED" value="false" />
         <option name="LOG_EXPRESSION_ENABLED" value="false" />
@@ -112,7 +116,7 @@
       <file leaf-file-name="FxTableView.kt" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/kotlin/FxTableView.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="37" column="92" selection-start="1444" selection-end="1444" vertical-scroll-proportion="0.0" vertical-offset="534" max-vertical-offset="1340">
+            <state line="53" column="17" selection-start="1886" selection-end="1886" vertical-scroll-proportion="0.0" vertical-offset="814" max-vertical-offset="1420">
               <folding>
                 <element signature="e#0#514#0" expanded="true" />
               </folding>
@@ -120,19 +124,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Core.kt" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/kotlin/Core.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="26" column="35" selection-start="678" selection-end="678" vertical-scroll-proportion="0.0" vertical-offset="238" max-vertical-offset="880">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="VlcMediaPlayer.kt" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="VlcMediaPlayer.kt" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/kotlin/VlcMediaPlayer.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="48" column="5" selection-start="1544" selection-end="1544" vertical-scroll-proportion="0.13129103" vertical-offset="840" max-vertical-offset="1820">
+            <state line="53" column="0" selection-start="1650" selection-end="1650" vertical-scroll-proportion="0.0" vertical-offset="798" max-vertical-offset="1820">
               <folding>
                 <element signature="n#!!doc" expanded="true" />
                 <element signature="e#39#400#0" expanded="true" />
@@ -141,13 +136,51 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="RadioParser.kt" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/kotlin/RadioParser.kt">
+      <file leaf-file-name="FoobnixFX.kt" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/kotlin/FoobnixFX.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="20" column="32" selection-start="579" selection-end="579" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="640">
+            <state line="31" column="42" selection-start="837" selection-end="837" vertical-scroll-proportion="0.0" vertical-offset="206" max-vertical-offset="1120">
               <folding>
-                <element signature="e#41#87#0" expanded="true" />
+                <element signature="e#39#343#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Parsers.kt" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/kotlin/Parsers.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="16" column="38" selection-start="573" selection-end="573" vertical-scroll-proportion="0.4620462" vertical-offset="0" max-vertical-offset="700">
+              <folding>
+                <element signature="e#39#204#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FxTreeView.kt" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/kotlin/FxTreeView.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="15" column="57" selection-start="442" selection-end="442" vertical-scroll-proportion="0.0" vertical-offset="54" max-vertical-offset="660">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Core.kt" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/kotlin/Core.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="21" column="30" selection-start="566" selection-end="566" vertical-scroll-proportion="0.0" vertical-offset="275" max-vertical-offset="880">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="build.gradle" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/build.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="16" column="4" selection-start="271" selection-end="271" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="620">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -332,19 +365,20 @@
         <option value="$PROJECT_DIR$/src/sample/Main.kt" />
         <option value="$PROJECT_DIR$/src/sample/Demo.java" />
         <option value="$PROJECT_DIR$/src/sample/Demo.kt" />
-        <option value="$PROJECT_DIR$/kotlin/FxTreeView.kt" />
         <option value="$PROJECT_DIR$/kotlin/LeftSide.kt" />
-        <option value="$PROJECT_DIR$/build.gradle" />
         <option value="$PROJECT_DIR$/kotlin/FxMusic.kt" />
         <option value="$PROJECT_DIR$/kotlin/Sample.kt" />
         <option value="$PROJECT_DIR$/kotlin/EventBus.kt" />
         <option value="$PROJECT_DIR$/kotlin/TopBar.kt" />
         <option value="$PROJECT_DIR$/kotlin/MediaPlayer.kt" />
-        <option value="$PROJECT_DIR$/kotlin/FoobnixFX.kt" />
         <option value="$PROJECT_DIR$/kotlin/Core.kt" />
-        <option value="$PROJECT_DIR$/kotlin/FxTableView.kt" />
         <option value="$PROJECT_DIR$/kotlin/RadioParser.kt" />
+        <option value="$PROJECT_DIR$/kotlin/FxTreeView.kt" />
+        <option value="$PROJECT_DIR$/build.gradle" />
+        <option value="$PROJECT_DIR$/kotlin/FoobnixFX.kt" />
         <option value="$PROJECT_DIR$/kotlin/VlcMediaPlayer.kt" />
+        <option value="$PROJECT_DIR$/kotlin/FxTableView.kt" />
+        <option value="$PROJECT_DIR$/kotlin/Parsers.kt" />
       </list>
     </option>
   </component>
@@ -353,9 +387,10 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
+    <option name="x" value="-3" />
     <option name="y" value="25" />
-    <option name="width" value="1920" />
-    <option name="height" value="1055" />
+    <option name="width" value="1926" />
+    <option name="height" value="1057" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -449,8 +484,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -469,22 +502,10 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="FoobnixFX" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="FoobnixFX" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="kotlin" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -502,9 +523,9 @@
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
-    <property name="project.structure.last.edited" value="Facets" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="project.structure.side.proportion" value="0.3314021" />
     <property name="SearchEverywhereHistory" value="?" />
     <property name="Downloaded.Files.Path" value="$PROJECT_DIR$/lib" />
     <property name="Repository.Attach.JavaDocs" value="true" />
@@ -806,9 +827,10 @@
       <item index="6" class="java.lang.String" itemvalue="Application.Demo" />
     </list>
     <recent_temporary>
-      <list size="2">
+      <list size="3">
         <item index="0" class="java.lang.String" itemvalue="Kotlin._DefaultPackage (2)" />
-        <item index="1" class="java.lang.String" itemvalue="Application.Demo" />
+        <item index="1" class="java.lang.String" itemvalue="Kotlin._DefaultPackage" />
+        <item index="2" class="java.lang.String" itemvalue="Application.Demo" />
       </list>
     </recent_temporary>
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
@@ -867,7 +889,11 @@
       <created>1389554783737</created>
       <updated>1389554783737</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="radio support">
+      <created>1389563369083</created>
+      <updated>1389563369083</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -894,37 +920,36 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="25" width="1920" height="1055" extended-state="6" />
+    <frame x="-3" y="25" width="1926" height="1057" extended-state="6" />
     <editor active="false" />
     <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32994187" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32848838" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32960597" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="FindBugs-IDEA" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32943678" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32837406" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32943678" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.19595315" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24973376" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Regex" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2497939" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24920128" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.5876727" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32994187" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32848838" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32837406" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32731137" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32731137" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32943678" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="CheckStyle" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32943678" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Kotlin" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.31363153" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.29872206" sideWeight="0.6703755" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32943678" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Regex" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2497939" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24920128" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.5876727" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.328541" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24973376" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Profiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32960597" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -933,6 +958,7 @@
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Problems" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32943678" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32960597" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -994,7 +1020,8 @@
     <MESSAGE value="fix working&#10;" />
     <MESSAGE value="kotlin sample&#10;" />
     <MESSAGE value="udpates" />
-    <option name="LAST_COMMIT_MESSAGE" value="udpates" />
+    <MESSAGE value="radio support" />
+    <option name="LAST_COMMIT_MESSAGE" value="radio support" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1004,16 +1031,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/kotlin/LeftSide.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="35" column="36" selection-start="949" selection-end="949" vertical-scroll-proportion="0.3322314" vertical-offset="459" max-vertical-offset="1640" />
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/dev/java/jdk1.8.0/jre/lib/rt.jar!/sun/rmi/runtime/RuntimeUtil.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="19" selection-start="164" selection-end="164" vertical-scroll-proportion="0.16528925" vertical-offset="0" max-vertical-offset="605" />
-      </provider>
-    </entry>
     <entry file="jar://$USER_HOME$/dev/java/jdk1.8.0/jre/lib/ext/jfxrt.jar!/javafx/scene/input/MouseDragEvent.class">
       <provider selected="true" editor-type-id="text-editor">
         <state line="6" column="19" selection-start="167" selection-end="167" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="700" />
@@ -1029,21 +1046,9 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="55" selection-start="369" selection-end="369" vertical-scroll-proportion="0.59504133" vertical-offset="0" max-vertical-offset="700" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/kotlin/FxMusic.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state line="9" column="1" selection-start="198" selection-end="198" vertical-scroll-proportion="0.23178808" vertical-offset="0" max-vertical-offset="604">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/kotlin/FxTreeView.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="0" selection-start="582" selection-end="582" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="660">
           <folding />
         </state>
       </provider>
@@ -1069,23 +1074,17 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/kotlin/Sample.kt1">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="51" column="0" selection-start="948" selection-end="993" vertical-scroll-proportion="0.0" vertical-offset="635" max-vertical-offset="1660">
-          <folding />
-        </state>
+        <state line="51" column="0" selection-start="948" selection-end="993" vertical-scroll-proportion="0.0" vertical-offset="635" max-vertical-offset="1660" />
       </provider>
     </entry>
     <entry file="jar://$USER_HOME$/dev/java/jdk1.8.0/jre/lib/ext/jfxrt.jar!/javafx/scene/input/MouseEvent.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="13" selection-start="161" selection-end="161" vertical-scroll-proportion="0.0" vertical-offset="1747" max-vertical-offset="2340">
-          <folding />
-        </state>
+        <state line="6" column="13" selection-start="161" selection-end="161" vertical-scroll-proportion="0.0" vertical-offset="1747" max-vertical-offset="2340" />
       </provider>
     </entry>
     <entry file="jar://$USER_HOME$/dev/java/jdk1.8.0/jre/lib/ext/jfxrt.jar!/javafx/scene/Node.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="770" column="98" selection-start="34794" selection-end="34794" vertical-scroll-proportion="0.0" vertical-offset="15183" max-vertical-offset="29520">
-          <folding />
-        </state>
+        <state line="770" column="98" selection-start="34794" selection-end="34794" vertical-scroll-proportion="0.0" vertical-offset="15183" max-vertical-offset="29520" />
       </provider>
     </entry>
     <entry file="jar://$APPLICATION_PLUGINS_DIR$/Kotlin/lib/kotlin-plugin.jar!/jet/Collections.kt">
@@ -1104,16 +1103,12 @@
     </entry>
     <entry file="jar://$KOTLIN_BUNDLED$/lib/kotlin-runtime-sources.jar!/kotlin/JUtil.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="25" selection-start="271" selection-end="271" vertical-scroll-proportion="0.0" vertical-offset="38" max-vertical-offset="2180">
-          <folding />
-        </state>
+        <state line="12" column="25" selection-start="271" selection-end="271" vertical-scroll-proportion="0.0" vertical-offset="38" max-vertical-offset="2180" />
       </provider>
     </entry>
     <entry file="jar://$KOTLIN_BUNDLED$/lib/kotlin-runtime-sources.jar!/kotlin/Lists.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="34" column="26" selection-start="946" selection-end="946" vertical-scroll-proportion="1.1467116" vertical-offset="0" max-vertical-offset="1760">
-          <folding />
-        </state>
+        <state line="34" column="26" selection-start="946" selection-end="946" vertical-scroll-proportion="1.1467116" vertical-offset="0" max-vertical-offset="1760" />
       </provider>
     </entry>
     <entry file="jar://$USER_HOME$/dev/java/jdk1.8.0/src.zip!/java/io/File.java">
@@ -1125,65 +1120,47 @@
     </entry>
     <entry file="jar://$USER_HOME$/dev/java/jdk1.8.0/jre/lib/ext/jfxrt.jar!/javafx/collections/FXCollections.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="48" column="60" selection-start="2954" selection-end="2954" vertical-scroll-proportion="0.0" vertical-offset="743" max-vertical-offset="15520">
-          <folding />
-        </state>
+        <state line="48" column="60" selection-start="2954" selection-end="2954" vertical-scroll-proportion="0.0" vertical-offset="743" max-vertical-offset="15520" />
       </provider>
     </entry>
     <entry file="jar://$KOTLIN_BUNDLED$/lib/kotlin-runtime-sources.jar!/generated/_Iterators.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="392" column="55" selection-start="12420" selection-end="12420" vertical-scroll-proportion="0.0" vertical-offset="7643" max-vertical-offset="8760">
-          <folding />
-        </state>
+        <state line="392" column="55" selection-start="12420" selection-end="12420" vertical-scroll-proportion="0.0" vertical-offset="7643" max-vertical-offset="8760" />
       </provider>
     </entry>
     <entry file="jar://$KOTLIN_BUNDLED$/lib/kotlin-runtime-sources.jar!/generated/_Iterables.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="440" column="27" selection-start="13515" selection-end="13515" vertical-scroll-proportion="0.0" vertical-offset="8603" max-vertical-offset="9560">
-          <folding />
-        </state>
+        <state line="440" column="27" selection-start="13515" selection-end="13515" vertical-scroll-proportion="0.0" vertical-offset="8603" max-vertical-offset="9560" />
       </provider>
     </entry>
     <entry file="jar://$KOTLIN_BUNDLED$/lib/kotlin-runtime-sources.jar!/kotlin/Iterators.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="156" column="6" selection-start="4669" selection-end="4669" vertical-scroll-proportion="0.0" vertical-offset="2878" max-vertical-offset="4340">
-          <folding />
-        </state>
+        <state line="156" column="6" selection-start="4669" selection-end="4669" vertical-scroll-proportion="0.0" vertical-offset="2878" max-vertical-offset="4340" />
       </provider>
     </entry>
     <entry file="jar://$USER_HOME$/dev/java/jdk1.8.0/src.zip!/java/util/List.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="110" column="17" selection-start="4250" selection-end="4250" vertical-scroll-proportion="0.0" vertical-offset="1538" max-vertical-offset="13440">
-          <folding />
-        </state>
+        <state line="110" column="17" selection-start="4250" selection-end="4250" vertical-scroll-proportion="0.0" vertical-offset="1538" max-vertical-offset="13440" />
       </provider>
     </entry>
     <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/uk.co.caprica/vlcj/2.4.1/4db39ff625c539cff578a23b60f5e5c838a8f2c6/vlcj-2.4.1-sources.jar!/uk/co/caprica/vlcj/player/embedded/EmbeddedMediaPlayer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="31" column="17" selection-start="1100" selection-end="1100" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3280">
-          <folding />
-        </state>
+        <state line="31" column="17" selection-start="1100" selection-end="1100" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3280" />
       </provider>
     </entry>
     <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/uk.co.caprica/vlcj/2.4.1/4db39ff625c539cff578a23b60f5e5c838a8f2c6/vlcj-2.4.1-sources.jar!/uk/co/caprica/vlcj/player/embedded/DefaultEmbeddedMediaPlayer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="196" column="25" selection-start="7288" selection-end="7288" vertical-scroll-proportion="0.0" vertical-offset="6914" max-vertical-offset="7520">
-          <folding />
-        </state>
+        <state line="196" column="25" selection-start="7288" selection-end="7288" vertical-scroll-proportion="0.0" vertical-offset="6914" max-vertical-offset="7520" />
       </provider>
     </entry>
     <entry file="jar://$USER_HOME$/dev/java/jdk1.8.0/jre/lib/ext/jfxrt.jar!/com/sun/javafx/event/EventHandlerManager.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="34" column="31" selection-start="2301" selection-end="2301" vertical-scroll-proportion="0.0" vertical-offset="544" max-vertical-offset="960">
-          <folding />
-        </state>
+        <state line="34" column="31" selection-start="2301" selection-end="2301" vertical-scroll-proportion="0.0" vertical-offset="544" max-vertical-offset="960" />
       </provider>
     </entry>
     <entry file="jar://$USER_HOME$/dev/java/jdk1.8.0/jre/lib/ext/jfxrt.jar!/javafx/scene/control/ProgressIndicator.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="28" column="24" selection-start="1223" selection-end="1223" vertical-scroll-proportion="0.4389439" vertical-offset="274" max-vertical-offset="880">
-          <folding />
-        </state>
+        <state line="28" column="24" selection-start="1223" selection-end="1223" vertical-scroll-proportion="0.4389439" vertical-offset="274" max-vertical-offset="880" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/kotlin/TopBar.kt">
@@ -1202,33 +1179,17 @@
     </entry>
     <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/uk.co.caprica/vlcj/2.4.1/4db39ff625c539cff578a23b60f5e5c838a8f2c6/vlcj-2.4.1-sources.jar!/uk/co/caprica/vlcj/player/condition/conditions/TimeReachedCondition.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="50" selection-start="1131" selection-end="1131" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="840">
-          <folding>
-            <element signature="e#0#1803#0" expanded="false" />
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
+        <state line="29" column="50" selection-start="1131" selection-end="1131" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="840" />
       </provider>
     </entry>
     <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/uk.co.caprica/vlcj/2.4.1/4db39ff625c539cff578a23b60f5e5c838a8f2c6/vlcj-2.4.1-sources.jar!/uk/co/caprica/vlcj/player/condition/DefaultCondition.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="46" column="47" selection-start="2015" selection-end="2015" vertical-scroll-proportion="0.0" vertical-offset="180" max-vertical-offset="1140">
-          <folding>
-            <element signature="e#0#2521#0" expanded="false" />
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
+        <state line="46" column="47" selection-start="2015" selection-end="2015" vertical-scroll-proportion="0.0" vertical-offset="180" max-vertical-offset="1140" />
       </provider>
     </entry>
     <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/uk.co.caprica/vlcj/2.4.1/4db39ff625c539cff578a23b60f5e5c838a8f2c6/vlcj-2.4.1-sources.jar!/uk/co/caprica/vlcj/player/condition/Condition.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="85" column="55" selection-start="3343" selection-end="3343" vertical-scroll-proportion="0.0" vertical-offset="896" max-vertical-offset="5100">
-          <folding>
-            <element signature="e#0#8897#0" expanded="false" />
-            <element signature="imports" expanded="false" />
-            <element signature="e#3689#3703#0" expanded="false" />
-          </folding>
-        </state>
+        <state line="85" column="55" selection-start="3343" selection-end="3343" vertical-scroll-proportion="0.0" vertical-offset="896" max-vertical-offset="5100" />
       </provider>
     </entry>
     <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/uk.co.caprica/vlcj/2.4.1/4db39ff625c539cff578a23b60f5e5c838a8f2c6/vlcj-2.4.1-sources.jar!/uk/co/caprica/vlcj/player/MediaPlayerEventAdapter.java">
@@ -1243,12 +1204,7 @@
     </entry>
     <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/uk.co.caprica/vlcj/2.4.1/4db39ff625c539cff578a23b60f5e5c838a8f2c6/vlcj-2.4.1-sources.jar!/uk/co/caprica/vlcj/player/MediaPlayer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="165" column="17" selection-start="6884" selection-end="6884" vertical-scroll-proportion="0.0" vertical-offset="2426" max-vertical-offset="32400">
-          <folding>
-            <element signature="e#0#51378#0" expanded="false" />
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
+        <state line="165" column="17" selection-start="6884" selection-end="6884" vertical-scroll-proportion="0.0" vertical-offset="2426" max-vertical-offset="32400" />
       </provider>
     </entry>
     <entry file="jar://$USER_HOME$/dev/java/jdk1.8.0/src.zip!/java/lang/Object.java">
@@ -1267,105 +1223,121 @@
     </entry>
     <entry file="jar://$USER_HOME$/dev/java/jdk1.8.0/src.zip!/java/net/URL.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="738" column="18" selection-start="28455" selection-end="28455" vertical-scroll-proportion="0.0" vertical-offset="13978" max-vertical-offset="25360">
-          <folding />
-        </state>
+        <state line="738" column="18" selection-start="28455" selection-end="28455" vertical-scroll-proportion="0.0" vertical-offset="13978" max-vertical-offset="25360" />
       </provider>
     </entry>
     <entry file="jar://$KOTLIN_BUNDLED$/lib/kotlin-runtime-sources.jar!/generated/_Arrays.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="180" column="35" selection-start="5844" selection-end="5844" vertical-scroll-proportion="0.0" vertical-offset="3403" max-vertical-offset="10440">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/kotlin/FxImageView.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="37" selection-start="221" selection-end="232" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="380">
-          <folding />
-        </state>
+        <state line="180" column="35" selection-start="5844" selection-end="5844" vertical-scroll-proportion="0.0" vertical-offset="3403" max-vertical-offset="10440" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/kotlin/radio/GUZEI.COM.fpl">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="100600">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="100600" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/kotlin/radio/GUZEI_BEST.COM.fpl">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="27140">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="27140" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/kotlin/radio/DI.FM.fpl">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1460">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1460" />
       </provider>
     </entry>
     <entry file="jar://$KOTLIN_BUNDLED$/lib/kotlin-runtime-sources.jar!/kotlin/io/JIO.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="213" column="51" selection-start="6657" selection-end="6663" vertical-scroll-proportion="0.0" vertical-offset="4003" max-vertical-offset="6800">
-          <folding />
-        </state>
+        <state line="213" column="51" selection-start="6657" selection-end="6663" vertical-scroll-proportion="0.0" vertical-offset="4003" max-vertical-offset="6800" />
       </provider>
     </entry>
     <entry file="jar://$KOTLIN_BUNDLED$/lib/kotlin-runtime-sources.jar!/kotlin/io/Files.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="196" column="22" selection-start="5443" selection-end="5443" vertical-scroll-proportion="0.0" vertical-offset="3583" max-vertical-offset="4540">
-          <folding />
-        </state>
+        <state line="196" column="22" selection-start="5443" selection-end="5443" vertical-scroll-proportion="0.0" vertical-offset="3583" max-vertical-offset="4540" />
       </provider>
     </entry>
     <entry file="jar://$KOTLIN_BUNDLED$/lib/kotlin-runtime-sources.jar!/kotlin/Standard.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="47" column="19" selection-start="1187" selection-end="1187" vertical-scroll-proportion="0.0" vertical-offset="698" max-vertical-offset="1340">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/kotlin/FoobnixFX.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="48" column="4" selection-start="1032" selection-end="1032" vertical-scroll-proportion="0.0" vertical-offset="86" max-vertical-offset="1000">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/kotlin/FxTableView.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="37" column="92" selection-start="1444" selection-end="1444" vertical-scroll-proportion="0.0" vertical-offset="534" max-vertical-offset="1340">
-          <folding>
-            <element signature="e#0#514#0" expanded="true" />
-          </folding>
-        </state>
+        <state line="47" column="19" selection-start="1187" selection-end="1187" vertical-scroll-proportion="0.0" vertical-offset="698" max-vertical-offset="1340" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/kotlin/RadioParser.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="32" selection-start="579" selection-end="579" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="640">
+        <state line="20" column="32" selection-start="579" selection-end="579" vertical-scroll-proportion="0.3938731" vertical-offset="0" max-vertical-offset="914">
           <folding>
             <element signature="e#41#87#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/kotlin/LeftSide.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="35" column="36" selection-start="949" selection-end="949" vertical-scroll-proportion="-0.10891089" vertical-offset="586" max-vertical-offset="1500">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kotlin/FxImageView.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="6" selection-start="114" selection-end="114" vertical-scroll-proportion="0.0990099" vertical-offset="0" max-vertical-offset="606">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/kotlin/Core.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="35" selection-start="678" selection-end="678" vertical-scroll-proportion="0.0" vertical-offset="238" max-vertical-offset="880">
+        <state line="21" column="30" selection-start="566" selection-end="566" vertical-scroll-proportion="0.0" vertical-offset="275" max-vertical-offset="880">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="4" selection-start="271" selection-end="271" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="620">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/kotlin/VlcMediaPlayer.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="48" column="5" selection-start="1544" selection-end="1544" vertical-scroll-proportion="0.13129103" vertical-offset="840" max-vertical-offset="1820">
+        <state line="53" column="0" selection-start="1650" selection-end="1650" vertical-scroll-proportion="0.0" vertical-offset="798" max-vertical-offset="1820">
           <folding>
             <element signature="n#!!doc" expanded="true" />
             <element signature="e#39#400#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kotlin/FoobnixFX.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="31" column="42" selection-start="837" selection-end="837" vertical-scroll-proportion="0.0" vertical-offset="206" max-vertical-offset="1120">
+          <folding>
+            <element signature="e#39#343#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kotlin/FxTreeView.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="57" selection-start="442" selection-end="442" vertical-scroll-proportion="0.0" vertical-offset="54" max-vertical-offset="660">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kotlin/FxTableView.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="53" column="17" selection-start="1886" selection-end="1886" vertical-scroll-proportion="0.0" vertical-offset="814" max-vertical-offset="1420">
+          <folding>
+            <element signature="e#0#514#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kotlin/Parsers.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="38" selection-start="573" selection-end="573" vertical-scroll-proportion="0.4620462" vertical-offset="0" max-vertical-offset="700">
+          <folding>
+            <element signature="e#39#204#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1428,8 +1400,7 @@
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
-                <option value="0.6" />
+                <option value="0.3314021" />
               </list>
             </option>
           </splitter-proportions>
@@ -1437,11 +1408,11 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
-          <last-edited>KotlinJavaRuntime</last-edited>
+          <last-edited>Gradle: httpclient-4.2</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
+                <option value="0.3314021" />
               </list>
             </option>
           </splitter-proportions>

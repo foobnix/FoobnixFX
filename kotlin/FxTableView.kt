@@ -48,7 +48,11 @@ class FxTableView() : TableView<FxMusic>(){
 
         setOnMouseClicked { event ->
             if (event?.getClickCount() == 2) {
-                VlcMediaPlayer.play(getSelectionModel()?.getSelectedItem()?.path!!)
+                var path = getSelectionModel()?.getSelectedItem()?.path!!
+                if(path.endsWith(".pls")){
+                    path = parsePls(path).get(0).second
+                }
+                VlcMediaPlayer.play(path)
             }
         }
 
