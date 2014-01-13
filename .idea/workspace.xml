@@ -2,16 +2,29 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/Parsers.kt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/test/DemoTest.kt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__commons_codec_1_6.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__commons_logging_1_1_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__httpclient_4_3_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__httpcore_4_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__json_20131018.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__junit_4_3_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__kotlin_compiler_0_6_1910.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__kotlin_stdlib_0_6_1910.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/com/intellij/lang/properties/charset/Native2AsciiCharsetProvider.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin/vk/Vk.kt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dictionaries/ivan.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/jna-3.5.2.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/platform-3.5.2.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/vlcj-2.4.1-javadoc.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/vlcj-2.4.1-sources.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/vlcj-2.4.1.jar" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kotlin/CenterLayout.kt" afterPath="$PROJECT_DIR$/kotlin/CenterLayout.kt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FoobnixFX.iml" afterPath="$PROJECT_DIR$/FoobnixFX.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kotlin/FoobnixFX.kt" afterPath="$PROJECT_DIR$/kotlin/FoobnixFX.kt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kotlin/FxTableView.kt" afterPath="$PROJECT_DIR$/kotlin/FxTableView.kt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kotlin/FxTreeView.kt" afterPath="$PROJECT_DIR$/kotlin/FxTreeView.kt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__jna_3_5_2.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__jna_3_5_2.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__vlcj_2_4_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__vlcj_2_4_1.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kotlin/VlcMediaPlayer.kt" afterPath="$PROJECT_DIR$/kotlin/VlcMediaPlayer.kt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build.gradle" afterPath="$PROJECT_DIR$/build.gradle" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/gradle.xml" afterPath="$PROJECT_DIR$/.idea/gradle.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="JavaFxApplication.iws" />
@@ -88,7 +101,7 @@
         <option name="CONDITION" value="" />
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
-      <breakpoint url="file://$PROJECT_DIR$/kotlin/VlcMediaPlayer.kt" line="52" class="Class at VlcMediaPlayer.kt:51" package="">
+      <breakpoint url="file://$PROJECT_DIR$/kotlin/VlcMediaPlayer.kt" line="52" class="Class at VlcMediaPlayer.kt:52" package="">
         <option name="ENABLED" value="true" />
         <option name="LOG_ENABLED" value="false" />
         <option name="LOG_EXPRESSION_ENABLED" value="false" />
@@ -113,73 +126,32 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="FxTableView.kt" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/kotlin/FxTableView.kt">
+      <file leaf-file-name="Vk.kt" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/kotlin/vk/Vk.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="53" column="17" selection-start="1886" selection-end="1886" vertical-scroll-proportion="0.0" vertical-offset="814" max-vertical-offset="1420">
+            <state line="43" column="0" selection-start="1645" selection-end="1645" vertical-scroll-proportion="0.80263156" vertical-offset="332" max-vertical-offset="980">
               <folding>
-                <element signature="e#0#514#0" expanded="true" />
+                <element signature="e#40#203#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="VlcMediaPlayer.kt" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/kotlin/VlcMediaPlayer.kt">
+      <file leaf-file-name="DemoTest.kt" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/kotlin/test/DemoTest.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="53" column="0" selection-start="1650" selection-end="1650" vertical-scroll-proportion="0.0" vertical-offset="798" max-vertical-offset="1820">
+            <state line="10" column="38" selection-start="195" selection-end="195" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="360">
               <folding>
-                <element signature="n#!!doc" expanded="true" />
-                <element signature="e#39#400#0" expanded="true" />
+                <element signature="e#40#103#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FoobnixFX.kt" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/kotlin/FoobnixFX.kt">
+      <file leaf-file-name="CenterLayout.kt" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/kotlin/CenterLayout.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="31" column="42" selection-start="837" selection-end="837" vertical-scroll-proportion="0.0" vertical-offset="206" max-vertical-offset="1120">
-              <folding>
-                <element signature="e#39#343#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Parsers.kt" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/kotlin/Parsers.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="38" selection-start="573" selection-end="573" vertical-scroll-proportion="0.4620462" vertical-offset="0" max-vertical-offset="700">
-              <folding>
-                <element signature="e#39#204#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="FxTreeView.kt" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/kotlin/FxTreeView.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="57" selection-start="442" selection-end="442" vertical-scroll-proportion="0.0" vertical-offset="54" max-vertical-offset="660">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Core.kt" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/kotlin/Core.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="21" column="30" selection-start="566" selection-end="566" vertical-scroll-proportion="0.0" vertical-offset="275" max-vertical-offset="880">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="build.gradle" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/build.gradle">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="4" selection-start="271" selection-end="271" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="620">
+            <state line="41" column="36" selection-start="1588" selection-end="1588" vertical-scroll-proportion="0.0" vertical-offset="292" max-vertical-offset="1260">
               <folding />
             </state>
           </provider>
@@ -210,6 +182,7 @@
     <option name="tasksExpandState">
       <map>
         <entry key="" value="true" />
+        <entry key="FoobnixFX/" value="true" />
       </map>
     </option>
     <option name="availableProjects">
@@ -241,6 +214,16 @@
                 <option name="description" value="Assembles classes 'main'." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="classes" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates KDoc API documentation for the main source code." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="kdoc" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles the source set 'main'.kotlin." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="compileKotlin" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Generates Javadoc API documentation for the main source code." />
@@ -281,6 +264,11 @@
                 <option name="description" value="Compiles Java source 'test:java'." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="compileTestJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles the source set 'test'.kotlin." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="compileTestKotlin" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Assembles a jar archive containing the main classes." />
@@ -360,7 +348,6 @@
         <option value="$PROJECT_DIR$/kotlin/button.css" />
         <option value="$PROJECT_DIR$/kotlin/InfoLine.kt" />
         <option value="$PROJECT_DIR$/kotlin/TreeSearchView.kt" />
-        <option value="$PROJECT_DIR$/kotlin/CenterLayout.kt" />
         <option value="$PROJECT_DIR$/src/sample/Main.java" />
         <option value="$PROJECT_DIR$/src/sample/Main.kt" />
         <option value="$PROJECT_DIR$/src/sample/Demo.java" />
@@ -374,11 +361,19 @@
         <option value="$PROJECT_DIR$/kotlin/Core.kt" />
         <option value="$PROJECT_DIR$/kotlin/RadioParser.kt" />
         <option value="$PROJECT_DIR$/kotlin/FxTreeView.kt" />
-        <option value="$PROJECT_DIR$/build.gradle" />
-        <option value="$PROJECT_DIR$/kotlin/FoobnixFX.kt" />
         <option value="$PROJECT_DIR$/kotlin/VlcMediaPlayer.kt" />
-        <option value="$PROJECT_DIR$/kotlin/FxTableView.kt" />
         <option value="$PROJECT_DIR$/kotlin/Parsers.kt" />
+        <option value="$PROJECT_DIR$/kotlin/FxTableView.kt" />
+        <option value="$PROJECT_DIR$/kotlin/FoobnixFX.kt" />
+        <option value="$PROJECT_DIR$/test/DemoTest.kt" />
+        <option value="$PROJECT_DIR$/kotlin/VK.kt" />
+        <option value="$PROJECT_DIR$/kotlin/vk/VK.kt" />
+        <option value="$PROJECT_DIR$/kotlin/gradlew" />
+        <option value="$PROJECT_DIR$/build.gradle" />
+        <option value="$PROJECT_DIR$/kotlin/com/intellij/lang/properties/charset/Native2AsciiCharsetProvider.java" />
+        <option value="$PROJECT_DIR$/kotlin/CenterLayout.kt" />
+        <option value="$PROJECT_DIR$/kotlin/vk/Vk.kt" />
+        <option value="$PROJECT_DIR$/kotlin/test/DemoTest.kt" />
       </list>
     </option>
   </component>
@@ -400,10 +395,22 @@
             <id />
           </State>
           <State>
+            <id>Android</id>
+          </State>
+          <State>
             <id>Android Lint</id>
           </State>
           <State>
+            <id>Class structure</id>
+          </State>
+          <State>
             <id>Code maturity issues</id>
+          </State>
+          <State>
+            <id>Dependency issues</id>
+          </State>
+          <State>
+            <id>General</id>
           </State>
           <State>
             <id>Gradle</id>
@@ -412,10 +419,16 @@
             <id>Groovy</id>
           </State>
           <State>
+            <id>IntelliJ IDEA Platform Inspections</id>
+          </State>
+          <State>
             <id>Internationalization issues</id>
           </State>
           <State>
             <id>JUnit issues</id>
+          </State>
+          <State>
+            <id>Java language level migration aids</id>
           </State>
           <State>
             <id>Javadoc issues</id>
@@ -427,7 +440,16 @@
             <id>Naming conventions</id>
           </State>
           <State>
+            <id>Numeric issues</id>
+          </State>
+          <State>
             <id>Performance issues</id>
+          </State>
+          <State>
+            <id>Plugin DevKit</id>
+          </State>
+          <State>
+            <id>Portability issues</id>
           </State>
           <State>
             <id>Probable bugs</id>
@@ -456,7 +478,7 @@
     <OptionsSetting value="true" id="Edit" />
     <OptionsSetting value="true" id="Undo Check Out" />
     <OptionsSetting value="true" id="Get Latest Version" />
-    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="2" id="Add" />
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectReloadState">
@@ -464,32 +486,113 @@
   </component>
   <component name="ProjectStructureProblems">
     <ignored-problems>
-      <problem id="unused-library(library:project:Gradle: jna-3.5.2)" />
-      <problem id="unused-library(library:project:Gradle: platform-3.5.2)" />
-      <problem id="unused-library(library:project:Gradle: vlcj-2.4.1)" />
-      <problem id="unused-library(library:project:KotlinJavaRuntime)" />
       <problem id="unused-library(library:project:uk.co.caprica:vlcj:2.4.1)" />
     </ignored-problems>
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
       <flattenPackages ProjectPane="false" />
-      <showMembers />
+      <showMembers ProjectPane="false" />
       <showModules />
       <showLibraryContents />
-      <hideEmptyPackages />
+      <hideEmptyPackages ProjectPane="true" />
       <abbreviatePackageNames />
       <autoscrollToSource />
       <autoscrollFromSource ProjectPane="true" />
-      <sortByType />
+      <sortByType ProjectPane="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
             <PATH_ELEMENT>
               <option name="myItemId" value="FoobnixFX" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FoobnixFX" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="&lt; 1.8 &gt;" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FoobnixFX" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="&lt; 1.8 &gt;" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="rt.jar" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FoobnixFX" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="&lt; 1.8 &gt;" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="rt.jar" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FoobnixFX" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="&lt; 1.8 &gt;" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="rt.jar" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="net" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
@@ -502,10 +605,72 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FoobnixFX" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FoobnixFX" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="kotlin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FoobnixFX" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FoobnixFX" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="kotlin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vk" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FoobnixFX" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FoobnixFX" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="kotlin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
+      <pane id="PackagesPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FoobnixFX" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FoobnixFX" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -519,14 +684,14 @@
     <property name="GoToClass.includeLibraries" value="false" />
     <property name="dynamic.classpath" value="false" />
     <property name="MemberChooser.copyJavadoc" value="false" />
-    <property name="options.lastSelected" value="preferences.sourceCode.General" />
+    <property name="options.lastSelected" value="project.propCompiler" />
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.3314021" />
-    <property name="SearchEverywhereHistory" value="?" />
+    <property name="project.structure.side.proportion" value="0.5457706" />
+    <property name="SearchEverywhereHistory" value="&#10;?" />
     <property name="Downloaded.Files.Path" value="$PROJECT_DIR$/lib" />
     <property name="Repository.Attach.JavaDocs" value="true" />
     <property name="Repository.Attach.Sources" value="true" />
@@ -536,8 +701,13 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/test" />
       <recent name="$PROJECT_DIR$/kotlin" />
       <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/kotlin/vk" />
+      <recent name="$PROJECT_DIR$/kotlin/test" />
     </key>
   </component>
   <component name="Regex">
@@ -551,37 +721,7 @@
     <option name="referencePos" value="0" />
     <option name="showLabels" value="true" />
   </component>
-  <component name="RunManager" selected="Kotlin._DefaultPackage (2)">
-    <configuration default="false" name="_DefaultPackage" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="_DefaultPackage" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="javafx" />
-      <envs />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
-    <configuration default="false" name="_DefaultPackage (1)" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="_DefaultPackage" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="javafx" />
-      <envs />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="JUnit.DemoTest.testMD5">
     <configuration default="false" name="_DefaultPackage (2)" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" value="_DefaultPackage" />
@@ -603,19 +743,79 @@
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
-    <configuration default="false" name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="FoobnixFX [clean]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="clean" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <RunnerSettings RunnerId="ExternalSystemTaskRunner" />
+      <ConfigurationWrapper RunnerId="ExternalSystemTaskRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="FoobnixFX [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="build" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <RunnerSettings RunnerId="ExternalSystemTaskRunner" />
+      <ConfigurationWrapper RunnerId="ExternalSystemTaskRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="FoobnixFX [run]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="run" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <RunnerSettings RunnerId="ExternalSystemTaskRunner" />
+      <ConfigurationWrapper RunnerId="ExternalSystemTaskRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="DemoTest.testMD5" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="Demo" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <module name="FoobnixFX" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="PACKAGE_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="DemoTest" />
+      <option name="METHOD_NAME" value="testMD5" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="javafx" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
       <envs />
+      <patterns />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
       <method />
@@ -698,6 +898,20 @@
       <option name="PASS_PARENT_ENVS" value="true" />
       <module name="FoobnixFX" />
       <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="externalProjectPath" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
       <method />
     </configuration>
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin" singleton="true">
@@ -817,20 +1031,23 @@
         <option name="Make" enabled="false" />
       </method>
     </configuration>
-    <list size="7">
+    <list size="8">
       <item index="0" class="java.lang.String" itemvalue="Application.Main" />
       <item index="1" class="java.lang.String" itemvalue="Groovy.build" />
       <item index="2" class="java.lang.String" itemvalue="Groovy.build (1)" />
-      <item index="3" class="java.lang.String" itemvalue="Kotlin._DefaultPackage" />
-      <item index="4" class="java.lang.String" itemvalue="Kotlin._DefaultPackage (1)" />
-      <item index="5" class="java.lang.String" itemvalue="Kotlin._DefaultPackage (2)" />
-      <item index="6" class="java.lang.String" itemvalue="Application.Demo" />
+      <item index="3" class="java.lang.String" itemvalue="Kotlin._DefaultPackage (2)" />
+      <item index="4" class="java.lang.String" itemvalue="Gradle.FoobnixFX [clean]" />
+      <item index="5" class="java.lang.String" itemvalue="Gradle.FoobnixFX [build]" />
+      <item index="6" class="java.lang.String" itemvalue="Gradle.FoobnixFX [run]" />
+      <item index="7" class="java.lang.String" itemvalue="JUnit.DemoTest.testMD5" />
     </list>
     <recent_temporary>
-      <list size="3">
-        <item index="0" class="java.lang.String" itemvalue="Kotlin._DefaultPackage (2)" />
-        <item index="1" class="java.lang.String" itemvalue="Kotlin._DefaultPackage" />
-        <item index="2" class="java.lang.String" itemvalue="Application.Demo" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="JUnit.DemoTest.testMD5" />
+        <item index="1" class="java.lang.String" itemvalue="Kotlin._DefaultPackage (2)" />
+        <item index="2" class="java.lang.String" itemvalue="Gradle.FoobnixFX [run]" />
+        <item index="3" class="java.lang.String" itemvalue="Gradle.FoobnixFX [clean]" />
+        <item index="4" class="java.lang.String" itemvalue="Gradle.FoobnixFX [build]" />
       </list>
     </recent_temporary>
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
@@ -893,7 +1110,11 @@
       <created>1389563369083</created>
       <updated>1389563369083</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="add test pls support&#10;">
+      <created>1389612896939</created>
+      <updated>1389612896939</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -923,25 +1144,25 @@
     <frame x="-3" y="25" width="1926" height="1057" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32994187" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32943678" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32848838" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32960597" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="FindBugs-IDEA" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32943678" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32837406" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32744282" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32943678" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.19595315" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32731137" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32640332" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32943678" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="CheckStyle" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32943678" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32224533" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Kotlin" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.31363153" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.29872206" sideWeight="0.6703755" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.19375" sideWeight="0.6703755" order="0" side_tool="false" content_ui="combo" x="774" y="228" width="372" height="648" />
       <window_info id="Regex" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2671875" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2497939" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24920128" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.5876727" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1021,7 +1242,8 @@
     <MESSAGE value="kotlin sample&#10;" />
     <MESSAGE value="udpates" />
     <MESSAGE value="radio support" />
-    <option name="LAST_COMMIT_MESSAGE" value="radio support" />
+    <MESSAGE value="add test pls support&#10;" />
+    <option name="LAST_COMMIT_MESSAGE" value="add test pls support&#10;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1031,76 +1253,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$USER_HOME$/dev/java/jdk1.8.0/jre/lib/ext/jfxrt.jar!/javafx/scene/input/MouseDragEvent.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="19" selection-start="167" selection-end="167" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="700" />
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/dev/java/jdk1.8.0/jre/lib/ext/jfxrt.jar!/javafx/event/EventHandler.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="9" selection-start="278" selection-end="278" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="280" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/kotlin/res/32px/arrow-down.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/kotlin/FxMusic.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="1" selection-start="198" selection-end="198" vertical-scroll-proportion="0.23178808" vertical-offset="0" max-vertical-offset="604">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/dev/java/jdk1.8.0/jre/lib/ext/jfxrt.jar!/javafx/beans/property/SimpleObjectProperty.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="13" selection-start="164" selection-end="164" vertical-scroll-proportion="0.10940919" vertical-offset="0" max-vertical-offset="914" />
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/dev/java/jdk1.8.0/jre/lib/ext/jfxrt.jar!/javafx/beans/property/ReadOnlyObjectWrapper.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="82" selection-start="233" selection-end="233" vertical-scroll-proportion="0.10940919" vertical-offset="0" max-vertical-offset="1100" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/kotlin/EventBus.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="29" selection-start="602" selection-end="606" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="640">
-          <folding>
-            <element signature="e#39#90#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/kotlin/Sample.kt1">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="51" column="0" selection-start="948" selection-end="993" vertical-scroll-proportion="0.0" vertical-offset="635" max-vertical-offset="1660" />
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/dev/java/jdk1.8.0/jre/lib/ext/jfxrt.jar!/javafx/scene/input/MouseEvent.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="13" selection-start="161" selection-end="161" vertical-scroll-proportion="0.0" vertical-offset="1747" max-vertical-offset="2340" />
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/dev/java/jdk1.8.0/jre/lib/ext/jfxrt.jar!/javafx/scene/Node.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="770" column="98" selection-start="34794" selection-end="34794" vertical-scroll-proportion="0.0" vertical-offset="15183" max-vertical-offset="29520" />
-      </provider>
-    </entry>
-    <entry file="jar://$APPLICATION_PLUGINS_DIR$/Kotlin/lib/kotlin-plugin.jar!/jet/Collections.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="23" selection-start="204" selection-end="214" vertical-scroll-proportion="0.330033" vertical-offset="0" max-vertical-offset="3080">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/dev/java/jdk1.8.0/src.zip!/java/util/ArrayList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="153" column="11" selection-start="5835" selection-end="5835" vertical-scroll-proportion="1.8184818" vertical-offset="1458" max-vertical-offset="28520">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$KOTLIN_BUNDLED$/lib/kotlin-runtime-sources.jar!/kotlin/JUtil.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state line="12" column="25" selection-start="271" selection-end="271" vertical-scroll-proportion="0.0" vertical-offset="38" max-vertical-offset="2180" />
@@ -1163,13 +1315,6 @@
         <state line="28" column="24" selection-start="1223" selection-end="1223" vertical-scroll-proportion="0.4389439" vertical-offset="274" max-vertical-offset="880" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/kotlin/TopBar.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="44" column="10" selection-start="1429" selection-end="1429" vertical-scroll-proportion="0.0" vertical-offset="426" max-vertical-offset="1700">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/uk.co.caprica/vlcj/2.4.1/4db39ff625c539cff578a23b60f5e5c838a8f2c6/vlcj-2.4.1-sources.jar!/uk/co/caprica/vlcj/player/MediaPlayerEventListener.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="38" column="30" selection-start="1474" selection-end="1474" vertical-scroll-proportion="0.0" vertical-offset="238" max-vertical-offset="5120">
@@ -1209,9 +1354,7 @@
     </entry>
     <entry file="jar://$USER_HOME$/dev/java/jdk1.8.0/src.zip!/java/lang/Object.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="36" column="13" selection-start="513" selection-end="513" vertical-scroll-proportion="0.0" vertical-offset="58" max-vertical-offset="10780">
-          <folding />
-        </state>
+        <state line="36" column="13" selection-start="513" selection-end="513" vertical-scroll-proportion="0.0" vertical-offset="58" max-vertical-offset="10780" />
       </provider>
     </entry>
     <entry file="jar://$USER_HOME$/dev/java/jdk1.8.0/src.zip!/java/lang/Class.java">
@@ -1277,27 +1420,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/kotlin/FxImageView.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="6" selection-start="114" selection-end="114" vertical-scroll-proportion="0.0990099" vertical-offset="0" max-vertical-offset="606">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/kotlin/Core.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="30" selection-start="566" selection-end="566" vertical-scroll-proportion="0.0" vertical-offset="275" max-vertical-offset="880">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="4" selection-start="271" selection-end="271" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="620">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/kotlin/VlcMediaPlayer.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state line="53" column="0" selection-start="1650" selection-end="1650" vertical-scroll-proportion="0.0" vertical-offset="798" max-vertical-offset="1820">
@@ -1308,12 +1430,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/kotlin/FoobnixFX.kt">
+    <entry file="file://$PROJECT_DIR$/kotlin/Core.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="31" column="42" selection-start="837" selection-end="837" vertical-scroll-proportion="0.0" vertical-offset="206" max-vertical-offset="1120">
-          <folding>
-            <element signature="e#39#343#0" expanded="true" />
-          </folding>
+        <state line="21" column="30" selection-start="566" selection-end="566" vertical-scroll-proportion="0.0" vertical-offset="275" max-vertical-offset="880">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kotlin/FxMusic.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="1" selection-start="198" selection-end="198" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="260">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kotlin/FxImageView.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="6" selection-start="114" selection-end="114" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="380">
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1324,20 +1458,116 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar://$USER_HOME$/dev/java/jdk1.8.0/jre/lib/ext/jfxrt.jar!/javafx/scene/control/TableColumn.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="49" column="132" selection-start="3877" selection-end="3972" vertical-scroll-proportion="0.0" vertical-offset="763" max-vertical-offset="3000" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kotlin/TopBar.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="15" selection-start="533" selection-end="533" vertical-scroll-proportion="-0.4290429" vertical-offset="480" max-vertical-offset="1700">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/dev/java/jdk1.8.0/jre/lib/ext/jfxrt.jar!/javafx/beans/value/ObservableValue.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="9" selection-start="229" selection-end="229" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="340" />
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/dev/java/jdk1.8.0/jre/lib/ext/nashorn.jar!/jdk/nashorn/api/scripting/JSObject.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="17" selection-start="172" selection-end="172" vertical-scroll-proportion="0.16556291" vertical-offset="0" max-vertical-offset="980" />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/kotlin/FxTableView.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="53" column="17" selection-start="1886" selection-end="1886" vertical-scroll-proportion="0.0" vertical-offset="814" max-vertical-offset="1420">
-          <folding>
-            <element signature="e#0#514#0" expanded="true" />
-          </folding>
+        <state line="45" column="0" selection-start="1873" selection-end="1873" vertical-scroll-proportion="0.0" vertical-offset="900" max-vertical-offset="1880">
+          <folding />
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kotlin/InfoLine.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="6" selection-start="112" selection-end="112" vertical-scroll-proportion="0.096618354" vertical-offset="0" max-vertical-offset="621">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/junit/junit/4.3.1/e8f35c347c9bba6f4b73225fb517ec863b003918/junit-4.3.1-sources.jar!/junit/framework/TestCase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="85" column="11" selection-start="2754" selection-end="2754" vertical-scroll-proportion="0.33223686" vertical-offset="1458" max-vertical-offset="4240" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/kotlin/Parsers.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="38" selection-start="573" selection-end="573" vertical-scroll-proportion="0.4620462" vertical-offset="0" max-vertical-offset="700">
+        <state line="12" column="30" selection-start="418" selection-end="418" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="700">
           <folding>
             <element signature="e#39#204#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kotlin/FoobnixFX.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="15" selection-start="212" selection-end="221" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="980">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.json/json/20131018/732c3955fe61046da31f6a024227f37d9ff3fbc3/json-20131018-sources.jar!/org/json/JSONObject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="94" column="23" selection-start="4218" selection-end="4228" vertical-scroll-proportion="0.0" vertical-offset="1353" max-vertical-offset="32680">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="28" column="38" selection-start="555" selection-end="555" vertical-scroll-proportion="0.0" vertical-offset="239" max-vertical-offset="860">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kotlin/com/intellij/lang/properties/charset/Native2AsciiCharsetProvider.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="3" selection-start="186" selection-end="186" vertical-scroll-proportion="0.22544283" vertical-offset="0" max-vertical-offset="621">
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#209#249#0" expanded="true" />
+            <element signature="e#556#565#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kotlin/CenterLayout.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="41" column="36" selection-start="1588" selection-end="1588" vertical-scroll-proportion="0.0" vertical-offset="292" max-vertical-offset="1260">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/dev/java/jdk1.8.0/src.zip!/java/net/URLDecoder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="131" column="25" selection-start="4504" selection-end="4504" vertical-scroll-proportion="0.33333334" vertical-offset="1953" max-vertical-offset="3800">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kotlin/test/DemoTest.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="38" selection-start="195" selection-end="195" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="360">
+          <folding>
+            <element signature="e#40#103#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kotlin/vk/Vk.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="43" column="0" selection-start="1645" selection-end="1645" vertical-scroll-proportion="0.80263156" vertical-offset="332" max-vertical-offset="980">
+          <folding>
+            <element signature="e#40#203#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1352,7 +1582,7 @@
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
+                <option value="0.5457706" />
                 <option value="0.5" />
               </list>
             </option>
@@ -1365,7 +1595,7 @@
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
+                <option value="0.5457706" />
               </list>
             </option>
           </splitter-proportions>
@@ -1388,7 +1618,7 @@
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
+                <option value="0.5457706" />
               </list>
             </option>
           </splitter-proportions>
@@ -1400,7 +1630,7 @@
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.3314021" />
+                <option value="0.5457706" />
               </list>
             </option>
           </splitter-proportions>
@@ -1408,11 +1638,11 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
-          <last-edited>Gradle: httpclient-4.2</last-edited>
+          <last-edited>Gradle: vlcj-2.4.1</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.3314021" />
+                <option value="0.5457706" />
               </list>
             </option>
           </splitter-proportions>
