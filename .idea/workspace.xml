@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kotlin/vk/Vk.kt" afterPath="$PROJECT_DIR$/kotlin/vk/Vk.kt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build.gradle" afterPath="$PROJECT_DIR$/build.gradle" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="JavaFxApplication.iws" />
@@ -105,10 +104,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Vk.kt" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="Vk.kt" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/kotlin/vk/Vk.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="23" column="0" selection-start="983" selection-end="983" vertical-scroll-proportion="0.08629441" vertical-offset="309" max-vertical-offset="900">
+            <state line="23" column="0" selection-start="983" selection-end="983" vertical-scroll-proportion="0.0" vertical-offset="309" max-vertical-offset="900">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="2" column="6" selection-start="18" selection-end="18" vertical-scroll-proportion="0.06622516" vertical-offset="0" max-vertical-offset="604">
               <folding />
             </state>
           </provider>
@@ -358,6 +366,7 @@
         <option value="$PROJECT_DIR$/kotlin/vk/Vk.kt" />
         <option value="$PROJECT_DIR$/build.gradle" />
         <option value="$PROJECT_DIR$/kotlin/EventBus.kt" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -1004,7 +1013,11 @@
       <created>1389627052786</created>
       <updated>1389627052786</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="add all">
+      <created>1389822171153</created>
+      <updated>1389822171153</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -1135,7 +1148,8 @@
     <MESSAGE value="add test pls support&#10;" />
     <MESSAGE value="update gradle, add webkit" />
     <MESSAGE value="add radio" />
-    <option name="LAST_COMMIT_MESSAGE" value="add radio" />
+    <MESSAGE value="add all" />
+    <option name="LAST_COMMIT_MESSAGE" value="add all" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1145,11 +1159,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$KOTLIN_BUNDLED$/lib/kotlin-runtime-sources.jar!/kotlin/Lists.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="34" column="26" selection-start="946" selection-end="946" vertical-scroll-proportion="1.1467116" vertical-offset="0" max-vertical-offset="1760" />
-      </provider>
-    </entry>
     <entry file="jar://$USER_HOME$/dev/java/jdk1.8.0/src.zip!/java/io/File.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="1205" column="18" selection-start="50785" selection-end="50785" vertical-scroll-proportion="0.0" vertical-offset="23163" max-vertical-offset="44200" />
@@ -1438,7 +1447,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/kotlin/vk/Vk.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="0" selection-start="983" selection-end="983" vertical-scroll-proportion="0.08629441" vertical-offset="309" max-vertical-offset="900">
+        <state line="23" column="0" selection-start="983" selection-end="983" vertical-scroll-proportion="0.0" vertical-offset="309" max-vertical-offset="900">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="6" selection-start="18" selection-end="18" vertical-scroll-proportion="0.06622516" vertical-offset="0" max-vertical-offset="604">
           <folding />
         </state>
       </provider>
