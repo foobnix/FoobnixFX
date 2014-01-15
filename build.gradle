@@ -3,7 +3,7 @@ buildscript {
         mavenCentral()
     }
     dependencies {
-        classpath 'org.jetbrains.kotlin:kotlin-gradle-plugin:0.6.1910'
+        classpath 'org.jetbrains.kotlin:kotlin-gradle-plugin:0.6.+'
     }
 }
 
@@ -22,12 +22,12 @@ repositories {
 
 dependencies {
 
-    runtime "org.jetbrains.kotlin:kotlin-runtime:0.6.1910"
-    runtime "org.jetbrains.kotlin:kotlin-stdlib:0.6.1910"
+    runtime "org.jetbrains.kotlin:kotlin-runtime:0.6.+"
+    runtime "org.jetbrains.kotlin:kotlin-stdlib:0.6.+"
 
-    compile 'org.jetbrains.kotlin:kotlin-compiler:0.6.1910'
-    compile 'uk.co.caprica:vlcj:2.4.1'
-    compile 'org.apache.httpcomponents:httpclient:4.3.1'
+    compile 'org.jetbrains.kotlin:kotlin-compiler:0.6.+'
+    compile 'uk.co.caprica:vlcj:2.+'
+    compile 'org.apache.httpcomponents:httpclient:4.+'
     compile 'org.json:json:20131018'
 
     compile 'junit:junit:4.3.1'

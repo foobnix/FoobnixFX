@@ -5,7 +5,6 @@
 import org.json.JSONObject
 import java.net.URLDecoder
 import java.security.MessageDigest
-import java.nio.charset.Charset
 import org.apache.commons.codec.binary.Hex
 
 class VkApi{
@@ -38,7 +37,7 @@ class VkApi{
     fun mpd5(item: String): String {
         var messageDigest = MessageDigest.getInstance("MD5");
         messageDigest.reset();
-        messageDigest.update(item.getBytes(Charset.forName("UTF8")));
+        messageDigest.update(item.getBytes("UTF-8"));
         var resultByte = messageDigest.digest();
         return String(Hex.encodeHex(resultByte)!!);
 
